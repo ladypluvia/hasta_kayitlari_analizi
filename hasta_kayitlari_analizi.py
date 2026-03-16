@@ -1,7 +1,7 @@
 # %%
 import pandas as pd
 
-df = pd.read_csv(rhasta_kayitlari.csv')
+df = pd.read_csv(r'hasta_kayitlari.csv')
 
 # %% [markdown]
 # ### Bölüm 1: Veriyi Tanımak
