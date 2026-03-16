@@ -38,4 +38,5 @@ Projeyi kendi ortamınızda çalıştırmak için aşağıdaki adımları izleye
 
 1. Repoyu bilgisayarınıza klonlayın:
    ```bash
-   git clone [https://github.com/KULLANICI_ADIN/repo-adi.git](https://github.com/KULLANICI_ADIN/repo-adi.git)
+   git clone [https://github.com/ladypluvia/hasta_kayitlari_analizi.git](https://github.com/ladypluvia/hasta_kayitlari_analizi.git)
+   
