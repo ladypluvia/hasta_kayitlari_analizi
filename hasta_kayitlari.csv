@@ -1,0 +1,1011 @@
+﻿hasta_id,yas,cinsiyet,sehir,kan_grubu,bolum,tani,yatis_gun,bmi,sistolik_kb,sigorta,maliyet_tl
+10630,49,Kadın,İzmir,0-,Nöroloji,İnme,2,19.2,103.0,Yok,4882.0
+10789,29,Kadın,İstanbul,AB+,Kardiyoloji,Hipertansiyon,3,,126.0,SGK,10119.0
+10685,69,Erkek,İstanbul,A+,Dahiliye,Anemi,7,28.1,124.0,SGK,9346.0
+10517,19,Kadın,Konya,A+,Pediatri,Bronşit,1,23.7,94.0,Özel Sigorta,3094.0
+10530,77,Kadın,İstanbul,0+,Kardiyoloji,Hipertansiyon,2,26.4,135.0,SGK,6823.0
+10658,75,Kadın,Ankara,A+,Pediatri,Bronşit,7,27.5,135.0,Özel Sigorta,8981.0
+10553,83,Kadın,İzmir,0+,Pediatri,Bronşit,1,27.2,126.0,Özel Sigorta,3377.0
+10532,66,Kadın,İstanbul,AB+,Ortopedi,Kırık,1,27.0,,SGK,5569.0
+10322,58,Kadın,Konya,A+,Kardiyoloji,Kalp Yetmezliği,4,30.8,131.0,Özel Sigorta,9536.0
+10071,78,Erkek,İstanbul,B+,Genel Cerrahi,Kolon Polip,1,28.4,136.0,SGK,5760.0
+10838,62,Kadın,Konya,A+,Kardiyoloji,Aritmia,10,20.0,117.0,Özel Sigorta,17638.0
+10454,59,Kadın,İzmir,B+,Dahiliye,KOAH,1,31.3,133.0,SGK,3851.0
+10997,20,Kadın,Ankara,0+,Pediatri,Alerji,2,22.4,125.0,Özel Sigorta,4290.0
+10669,49,Kadın,Bursa,AB+,Ortopedi,Disk Hernisi,2,25.7,130.0,SGK,7881.0
+10248,22,Kadın,Gaziantep,0+,Pediatri,Alerji,2,,113.0,Özel Sigorta,4587.0
+10614,44,Erkek,Antalya,AB+,Pediatri,Kulak İltihabı,3,,100.0,Yok,5897.0
+10845,62,Erkek,Ankara,0+,Ortopedi,Kırık,3,25.8,135.0,SGK,9762.0
+10705,79,Kadın,Konya,0+,Pediatri,Alerji,1,28.0,132.0,Özel Sigorta,3133.0
+10299,64,Erkek,Gaziantep,0+,Genel Cerrahi,Apandisit,1,25.9,133.0,SGK,6191.0
+10102,65,Erkek,İstanbul,0+,Kardiyoloji,Aritmia,3,21.2,121.0,SGK,7377.0
+10903,24,Erkek,İstanbul,A+,Nöroloji,Epilepsi,2,21.4,118.0,SGK,5773.0
+10920,36,Kadın,Adana,B+,Pediatri,Alerji,3,27.9,108.0,Özel Sigorta,5501.0
+10214,38,Kadın,Antalya,0+,Kardiyoloji,Aritmia,1,23.9,126.0,Özel Sigorta,4181.0
+10238,62,Erkek,Ankara,0+,Dahiliye,Tiroid,1,23.5,118.0,SGK,2961.0
+10596,38,Kadın,İstanbul,A+,Kardiyoloji,Aritmia,1,27.2,115.0,Özel Sigorta,5001.0
+10282,74,Kadın,İzmir,A-,Pediatri,Alerji,1,27.0,137.0,SGK,3352.0
+10871,21,Erkek,Antalya,B+,Nöroloji,Epilepsi,3,20.4,104.0,SGK,8427.0
+10287,40,Erkek,Konya,B+,Ortopedi,Disk Hernisi,2,30.1,117.0,SGK,8549.0
+10923,58,Kadın,Bursa,0-,Nöroloji,Migren,2,,122.0,Yok,4490.0
+10888,47,Kadın,Bursa,AB+,Genel Cerrahi,Safra Kesesi,3,29.4,130.0,SGK,11688.0
+10465,19,Erkek,Ankara,0+,Nöroloji,İnme,5,22.5,111.0,SGK,10511.0
+10797,21,Erkek,Konya,0+,Pediatri,Bronşit,2,22.2,98.0,SGK,3429.0
+10097,32,Kadın,Adana,AB+,Dahiliye,KOAH,5,24.2,112.0,SGK,8077.0
+10245,31,Erkek,İstanbul,A+,Dahiliye,Anemi,1,19.7,129.0,SGK,2823.0
+10890,52,Erkek,İzmir,B+,Dahiliye,Diyabet,3,25.8,112.0,SGK,6816.0
+10077,35,Kadın,İstanbul,A+,Nöroloji,Epilepsi,1,21.0,121.0,SGK,4123.0
+10902,50,Kadın,Antalya,B+,Pediatri,Kulak İltihabı,2,33.9,130.0,Yok,4629.0
+10210,29,Erkek,Antalya,A+,Nöroloji,Epilepsi,3,23.9,105.0,SGK,6776.0
+10260,61,Kadın,İstanbul,B-,Kardiyoloji,Hipertansiyon,1,26.8,123.0,SGK,3979.0
+10159,58,Erkek,Antalya,AB-,Genel Cerrahi,Fıtık,3,27.7,124.0,Özel Sigorta,
+10740,38,Erkek,İstanbul,0+,Dahiliye,Diyabet,2,22.1,115.0,Yok,3889.0
+10433,54,Kadın,İstanbul,A-,Kardiyoloji,Koroner Arter,4,29.1,123.0,SGK,10127.0
+10332,32,Erkek,Gaziantep,B+,Genel Cerrahi,Kolon Polip,4,22.1,111.0,Özel Sigorta,13634.0
+10957,38,Kadın,Ankara,A+,Ortopedi,Disk Hernisi,5,19.8,130.0,SGK,13729.0
+10315,70,Erkek,İzmir,AB+,Kardiyoloji,Hipertansiyon,2,25.5,117.0,Özel Sigorta,6815.0
+10295,18,Erkek,İzmir,0-,Kardiyoloji,Kalp Yetmezliği,3,19.7,100.0,Yok,8765.0
+10383,47,Erkek,Adana,0+,Genel Cerrahi,Apandisit,5,24.6,115.0,SGK,14836.0
+10389,56,Erkek,Adana,A+,Kardiyoloji,Koroner Arter,7,23.3,120.0,Özel Sigorta,
+10576,37,Erkek,Bursa,B+,Kardiyoloji,Hipertansiyon,7,24.0,126.0,SGK,14789.0
+10880,77,Erkek,Konya,B+,Pediatri,Kulak İltihabı,4,27.9,142.0,SGK,6866.0
+10443,52,Erkek,Ankara,A+,Genel Cerrahi,Fıtık,7,21.3,118.0,SGK,18594.0
+10722,35,Erkek,Ankara,B-,Kardiyoloji,Hipertansiyon,4,21.2,,Yok,10439.0
+10060,64,Erkek,Adana,B-,Dahiliye,KOAH,3,22.3,130.0,Özel Sigorta,6547.0
+10679,22,Kadın,İstanbul,A-,Pediatri,Kulak İltihabı,5,22.4,127.0,SGK,7885.0
+10371,38,Erkek,Ankara,B+,Pediatri,Grip,3,23.1,122.0,SGK,5737.0
+10483,25,Kadın,İzmir,0+,Pediatri,Bronşit,2,25.9,118.0,Yok,4380.0
+10382,53,Erkek,İstanbul,A+,Nöroloji,Epilepsi,1,25.8,127.0,SGK,3096.0
+10055,39,Erkek,Ankara,A+,Nöroloji,İnme,3,23.1,98.0,Özel Sigorta,6820.0
+10024,34,Kadın,Adana,A+,Nöroloji,Parkinson,2,,135.0,SGK,5894.0
+10031,64,Erkek,İstanbul,A+,Ortopedi,Tendon Yırtığı,2,24.3,125.0,Özel Sigorta,7494.0
+10881,77,Kadın,Konya,A+,Genel Cerrahi,Safra Kesesi,1,27.6,123.0,Özel Sigorta,5815.0
+10431,39,Erkek,Konya,AB+,Dahiliye,Tiroid,1,26.4,109.0,SGK,1868.0
+10011,81,Erkek,Ankara,B+,Dahiliye,Anemi,2,23.9,125.0,Özel Sigorta,4838.0
+10657,27,Kadın,Ankara,A+,Ortopedi,Disk Hernisi,3,21.5,131.0,Yok,10338.0
+10814,21,Kadın,İstanbul,A+,Pediatri,Bronşit,7,21.5,129.0,Özel Sigorta,8841.0
+10484,39,Erkek,Adana,B+,Genel Cerrahi,Apandisit,7,25.2,137.0,SGK,18610.0
+10544,32,Erkek,Ankara,0+,Dahiliye,Diyabet,3,16.8,103.0,Özel Sigorta,6188.0
+10200,66,Kadın,İzmir,A+,Genel Cerrahi,Apandisit,4,27.2,148.0,Özel Sigorta,13325.0
+10502,47,Erkek,Antalya,AB+,Genel Cerrahi,Apandisit,2,25.6,118.0,SGK,8593.0
+10941,74,Erkek,Antalya,A+,Dahiliye,Diyabet,14,31.2,152.0,Yok,15171.0
+10108,38,Kadın,Konya,0+,Ortopedi,Disk Hernisi,10,22.2,129.0,SGK,21083.0
+10219,61,Kadın,İstanbul,A+,Nöroloji,Parkinson,2,20.1,129.0,SGK,5896.0
+10926,50,Erkek,Ankara,B+,Genel Cerrahi,Safra Kesesi,2,24.0,120.0,Yok,9653.0
+10175,61,Erkek,İzmir,B+,Ortopedi,Disk Hernisi,14,22.0,129.0,Yok,25207.0
+10724,42,Kadın,İzmir,AB+,Genel Cerrahi,Fıtık,7,29.5,131.0,SGK,18279.0
+10882,74,Kadın,İzmir,A+,Ortopedi,Kırık,2,25.2,132.0,Yok,7717.0
+10934,56,Erkek,Gaziantep,B+,Kardiyoloji,Koroner Arter,1,30.5,118.0,SGK,4197.0
+10395,78,Kadın,Konya,B-,Nöroloji,İnme,2,19.5,123.0,Özel Sigorta,6192.0
+10040,49,Erkek,Gaziantep,A+,Dahiliye,Anemi,5,,124.0,Yok,7293.0
+10834,48,Erkek,Antalya,0+,Pediatri,Grip,2,18.2,138.0,Özel Sigorta,4523.0
+10774,20,Kadın,Adana,A+,Genel Cerrahi,Apandisit,2,18.8,108.0,SGK,9518.0
+10352,42,Kadın,İzmir,A-,Dahiliye,Anemi,4,29.3,129.0,SGK,6877.0
+10067,75,Kadın,Antalya,0-,Nöroloji,Migren,1,25.4,135.0,Özel Sigorta,3357.0
+10278,70,Kadın,İstanbul,A+,Nöroloji,İnme,5,22.4,146.0,Özel Sigorta,9089.0
+10068,55,Kadın,Antalya,0+,Dahiliye,Anemi,4,24.9,116.0,Yok,7432.0
+10911,43,Erkek,İstanbul,AB-,Pediatri,Kulak İltihabı,5,,127.0,Yok,6922.0
+10440,42,Erkek,Ankara,0-,Genel Cerrahi,Apandisit,1,27.2,131.0,Özel Sigorta,5546.0
+10737,35,Kadın,İstanbul,B+,Dahiliye,Tiroid,3,19.0,115.0,SGK,5514.0
+10297,46,Erkek,Antalya,A-,Genel Cerrahi,Safra Kesesi,1,26.9,124.0,Özel Sigorta,6317.0
+10621,38,Kadın,Gaziantep,0+,Pediatri,Kulak İltihabı,3,22.5,120.0,Özel Sigorta,5741.0
+10491,79,Erkek,Ankara,B+,Genel Cerrahi,Safra Kesesi,2,,124.0,Özel Sigorta,8296.0
+10820,41,Erkek,Konya,A+,Nöroloji,Migren,1,25.5,114.0,SGK,3910.0
+10559,82,Kadın,İzmir,B+,Ortopedi,Disk Hernisi,7,22.0,151.0,Yok,16901.0
+10425,53,Erkek,Ankara,B+,Kardiyoloji,Kalp Yetmezliği,2,21.6,139.0,SGK,5901.0
+10925,67,Kadın,Konya,0+,Kardiyoloji,Aritmia,10,27.7,137.0,SGK,17807.0
+10313,48,Erkek,Bursa,0+,Kardiyoloji,Koroner Arter,1,25.4,115.0,SGK,3897.0
+10185,71,Erkek,Ankara,0+,Kardiyoloji,Hipertansiyon,3,25.7,135.0,SGK,8933.0
+10333,82,Kadın,Ankara,0+,Pediatri,Alerji,2,22.3,125.0,Yok,3754.0
+10089,81,Erkek,İstanbul,A+,Pediatri,Grip,4,26.0,132.0,SGK,6481.0
+10064,74,Erkek,İstanbul,B+,Genel Cerrahi,Safra Kesesi,5,25.6,143.0,SGK,15919.0
+10835,81,Kadın,Konya,B+,Genel Cerrahi,Fıtık,1,26.4,125.0,SGK,5927.0
+10577,35,Kadın,Antalya,0+,Ortopedi,Artrit,3,26.0,121.0,Özel Sigorta,10328.0
+10216,43,Erkek,Gaziantep,B+,Ortopedi,Kırık,3,30.1,109.0,SGK,10357.0
+10616,22,Kadın,Adana,0+,Ortopedi,Disk Hernisi,1,27.8,122.0,Yok,5559.0
+10514,53,Kadın,İstanbul,B+,Ortopedi,Disk Hernisi,4,25.7,117.0,Yok,12403.0
+10291,62,Erkek,Antalya,B+,Genel Cerrahi,Safra Kesesi,3,,138.0,SGK,
+10378,45,Kadın,Adana,A-,Genel Cerrahi,Kolon Polip,1,,126.0,SGK,6429.0
+10892,31,Kadın,İstanbul,B+,Ortopedi,Artrit,7,24.1,111.0,SGK,16503.0
+10970,20,Kadın,Ankara,0+,Kardiyoloji,Aritmia,2,23.8,109.0,SGK,7200.0
+10947,55,Erkek,İstanbul,B+,Ortopedi,Tendon Yırtığı,3,21.2,135.0,SGK,9447.0
+10787,75,Erkek,Konya,B+,Kardiyoloji,Hipertansiyon,5,29.1,143.0,SGK,12106.0
+10426,72,Erkek,İstanbul,A+,Dahiliye,Tiroid,2,28.7,117.0,SGK,4173.0
+10697,25,Kadın,Antalya,0+,Kardiyoloji,Hipertansiyon,2,24.7,105.0,Yok,6178.0
+10996,24,Erkek,Ankara,0+,Genel Cerrahi,Kolon Polip,4,26.7,119.0,Yok,13461.0
+10310,50,Erkek,Ankara,B+,Genel Cerrahi,Apandisit,3,25.1,102.0,SGK,11483.0
+10087,67,Kadın,İzmir,B+,Kardiyoloji,Kalp Yetmezliği,7,27.9,146.0,SGK,13907.0
+10732,38,Kadın,İstanbul,0+,Dahiliye,Tiroid,3,21.9,130.0,SGK,6257.0
+10756,39,Erkek,İstanbul,0+,Pediatri,Bronşit,3,24.6,123.0,SGK,5769.0
+10311,18,Erkek,Bursa,B+,Ortopedi,Kırık,2,23.4,118.0,Yok,8399.0
+10539,23,Kadın,Antalya,B+,Nöroloji,Epilepsi,1,23.3,111.0,Özel Sigorta,4321.0
+10137,63,Erkek,Antalya,0+,Nöroloji,İnme,1,18.4,149.0,SGK,4309.0
+10959,43,Kadın,Adana,A+,Kardiyoloji,Aritmia,4,27.1,117.0,Özel Sigorta,10968.0
+11000,57,Kadın,İstanbul,A-,Pediatri,Alerji,4,30.0,132.0,Yok,6119.0
+10729,49,Kadın,Adana,B+,Dahiliye,Anemi,2,27.5,126.0,SGK,4936.0
+10262,45,Kadın,Ankara,AB+,Nöroloji,Parkinson,1,26.4,121.0,SGK,3890.0
+10548,19,Kadın,Antalya,0+,Ortopedi,Tendon Yırtığı,3,22.3,116.0,SGK,9588.0
+10169,62,Erkek,İzmir,A+,Dahiliye,KOAH,5,23.9,121.0,SGK,8496.0
+10791,51,Kadın,Konya,B+,Kardiyoloji,Hipertansiyon,7,27.8,141.0,Yok,13661.0
+10449,58,Kadın,Bursa,B+,Nöroloji,Epilepsi,4,27.1,117.0,SGK,8815.0
+10140,66,Erkek,İstanbul,AB+,Kardiyoloji,Kalp Yetmezliği,1,21.8,135.0,Özel Sigorta,4119.0
+10686,32,Erkek,Konya,A+,Dahiliye,KOAH,14,,120.0,SGK,15514.0
+10667,77,Kadın,Antalya,B-,Genel Cerrahi,Apandisit,3,26.2,148.0,SGK,11429.0
+10858,20,Kadın,Ankara,0-,Kardiyoloji,Aritmia,2,,97.0,SGK,7048.0
+10519,84,Kadın,Bursa,0+,Dahiliye,KOAH,3,22.8,152.0,SGK,6067.0
+10409,43,Kadın,İstanbul,B-,Genel Cerrahi,Apandisit,1,27.4,103.0,SGK,5697.0
+10534,55,Kadın,İzmir,AB-,Pediatri,Bronşit,14,26.5,114.0,SGK,13020.0
+10056,44,Kadın,Ankara,AB-,Pediatri,Kulak İltihabı,3,25.0,100.0,SGK,5150.0
+10121,34,Kadın,İstanbul,B+,Nöroloji,Epilepsi,5,23.6,106.0,Yok,9492.0
+10531,29,Erkek,Konya,B-,Pediatri,Alerji,2,22.6,106.0,Özel Sigorta,4346.0
+10026,82,Kadın,Ankara,B+,Pediatri,Bronşit,1,30.4,145.0,Yok,3072.0
+10073,81,Kadın,İstanbul,B+,Nöroloji,İnme,4,30.0,121.0,Yok,8543.0
+10045,46,Kadın,Bursa,0+,Pediatri,Kulak İltihabı,2,22.8,129.0,Özel Sigorta,3929.0
+10250,25,Kadın,İzmir,AB-,Dahiliye,Anemi,1,,119.0,SGK,3485.0
+10405,30,Erkek,Ankara,0+,Pediatri,Alerji,1,20.5,115.0,Yok,2875.0
+10848,21,Kadın,Ankara,0+,Nöroloji,İnme,4,25.1,101.0,Özel Sigorta,8999.0
+10704,58,Erkek,İzmir,A+,Pediatri,Grip,7,24.4,143.0,Yok,9029.0
+10919,66,Erkek,İstanbul,A+,Nöroloji,Migren,7,28.0,133.0,SGK,11177.0
+10199,67,Erkek,Ankara,AB+,Ortopedi,Artrit,10,30.4,127.0,SGK,20172.0
+10543,31,Kadın,Konya,AB+,Pediatri,Alerji,5,25.7,127.0,Özel Sigorta,7482.0
+10356,54,Erkek,İstanbul,0+,Genel Cerrahi,Apandisit,2,19.7,110.0,SGK,9218.0
+10324,30,Kadın,Gaziantep,A+,Dahiliye,Anemi,2,24.0,119.0,Yok,4369.0
+10650,26,Erkek,Adana,AB+,Ortopedi,Artrit,7,26.1,124.0,SGK,16060.0
+10917,20,Erkek,Ankara,A+,Kardiyoloji,Koroner Arter,3,19.9,102.0,SGK,9181.0
+10236,73,Kadın,Bursa,B-,Genel Cerrahi,Safra Kesesi,5,,125.0,SGK,16267.0
+10581,49,Kadın,İstanbul,0+,Nöroloji,Epilepsi,2,26.5,120.0,SGK,5315.0
+10950,27,Kadın,İzmir,0+,Genel Cerrahi,Safra Kesesi,2,24.0,114.0,SGK,9048.0
+10944,68,Kadın,Konya,B+,Pediatri,Grip,7,21.2,144.0,Özel Sigorta,8196.0
+10908,65,Kadın,İstanbul,B+,Pediatri,Kulak İltihabı,3,22.5,137.0,Özel Sigorta,4912.0
+10300,51,Kadın,İzmir,B-,Ortopedi,Kırık,3,27.9,117.0,SGK,10075.0
+10061,76,Kadın,Ankara,AB+,Dahiliye,Tiroid,2,22.7,135.0,SGK,4398.0
+10328,30,Erkek,İstanbul,0+,Genel Cerrahi,Fıtık,3,22.7,100.0,Özel Sigorta,12080.0
+10932,60,Erkek,Antalya,B+,Dahiliye,Tiroid,4,26.1,132.0,Özel Sigorta,7381.0
+10602,21,Erkek,İstanbul,A+,Dahiliye,Tiroid,4,21.7,123.0,Özel Sigorta,7073.0
+10448,56,Erkek,Antalya,AB-,Dahiliye,KOAH,7,22.6,128.0,Yok,10141.0
+10830,39,Erkek,Adana,B+,Dahiliye,Tiroid,5,17.2,119.0,SGK,8317.0
+10651,58,Erkek,İzmir,A+,Nöroloji,İnme,2,30.1,115.0,SGK,6433.0
+10599,24,Erkek,Ankara,A-,Ortopedi,Kırık,2,20.7,114.0,SGK,7681.0
+10545,38,Kadın,İzmir,0-,Genel Cerrahi,Fıtık,4,22.1,105.0,Özel Sigorta,14155.0
+10785,26,Kadın,İzmir,A+,Kardiyoloji,Kalp Yetmezliği,2,24.4,115.0,SGK,7079.0
+10306,43,Kadın,Bursa,B-,Nöroloji,İnme,3,29.2,117.0,SGK,7215.0
+10319,81,Erkek,Antalya,0+,Pediatri,Alerji,7,28.5,144.0,SGK,9111.0
+10761,20,Erkek,Ankara,A+,Genel Cerrahi,Kolon Polip,2,19.3,125.0,Yok,9543.0
+10495,29,Erkek,İzmir,A+,Pediatri,Kulak İltihabı,21,22.6,118.0,SGK,17787.0
+10266,19,Kadın,İzmir,A+,Kardiyoloji,Koroner Arter,4,16.0,106.0,SGK,10393.0
+10111,55,Erkek,Ankara,B+,Ortopedi,Tendon Yırtığı,14,29.2,127.0,Özel Sigorta,25412.0
+10694,81,Erkek,Ankara,0+,Kardiyoloji,Aritmia,1,,136.0,Özel Sigorta,4787.0
+10945,56,Kadın,Adana,0-,Nöroloji,Migren,5,23.6,121.0,SGK,9549.0
+10528,60,Kadın,Ankara,A+,Dahiliye,Anemi,1,22.4,118.0,Yok,3793.0
+10257,64,Erkek,Bursa,B-,Ortopedi,Disk Hernisi,1,25.1,121.0,SGK,5709.0
+10261,73,Kadın,Antalya,B+,Kardiyoloji,Aritmia,7,27.8,135.0,SGK,14520.0
+10635,38,Erkek,Bursa,A+,Ortopedi,Disk Hernisi,1,24.0,100.0,SGK,4699.0
+10824,48,Kadın,Bursa,0+,Nöroloji,İnme,2,28.7,99.0,Yok,5517.0
+10430,38,Erkek,Antalya,A+,Ortopedi,Kırık,2,22.8,,SGK,7440.0
+10631,53,Erkek,İstanbul,0+,Pediatri,Grip,10,27.1,118.0,Özel Sigorta,10990.0
+10381,33,Erkek,Antalya,0+,Genel Cerrahi,Kolon Polip,2,21.0,98.0,Özel Sigorta,8678.0
+10434,32,Erkek,Bursa,A-,Pediatri,Alerji,7,21.5,90.0,Yok,8776.0
+10735,29,Kadın,İstanbul,A+,Nöroloji,İnme,3,29.3,126.0,SGK,7827.0
+10138,32,Erkek,İzmir,0+,Genel Cerrahi,Safra Kesesi,7,18.8,112.0,SGK,17974.0
+10358,32,Erkek,İstanbul,0+,Genel Cerrahi,Apandisit,1,27.8,120.0,SGK,5243.0
+10529,32,Erkek,İzmir,0+,Kardiyoloji,Hipertansiyon,1,24.7,99.0,Özel Sigorta,4142.0
+10222,54,Erkek,Antalya,0+,Pediatri,Kulak İltihabı,1,23.5,129.0,SGK,2749.0
+10757,60,Kadın,İzmir,AB+,Pediatri,Grip,5,16.9,120.0,SGK,8154.0
+10597,45,Erkek,İstanbul,0+,Genel Cerrahi,Safra Kesesi,7,24.3,109.0,Özel Sigorta,19675.0
+10560,71,Kadın,Konya,B+,Kardiyoloji,Koroner Arter,3,25.0,130.0,SGK,9370.0
+10364,40,Erkek,İstanbul,A-,Kardiyoloji,Kalp Yetmezliği,5,26.6,111.0,Özel Sigorta,11580.0
+10526,52,Kadın,Ankara,0+,Nöroloji,Migren,10,27.0,120.0,SGK,15491.0
+10209,75,Erkek,İstanbul,A+,Genel Cerrahi,Apandisit,10,19.5,136.0,SGK,23918.0
+10412,27,Kadın,Adana,B-,Dahiliye,Tiroid,3,22.2,116.0,SGK,5994.0
+10335,38,Erkek,İstanbul,A+,Genel Cerrahi,Kolon Polip,3,22.2,124.0,Yok,10807.0
+10211,20,Kadın,Antalya,AB+,Ortopedi,Disk Hernisi,3,23.5,118.0,SGK,10657.0
+10351,43,Kadın,Adana,0+,Kardiyoloji,Kalp Yetmezliği,7,16.4,113.0,Yok,14571.0
+10079,44,Kadın,Ankara,0+,Dahiliye,Anemi,5,22.9,110.0,Özel Sigorta,8210.0
+10030,81,Erkek,İzmir,B+,Ortopedi,Artrit,1,30.2,157.0,Özel Sigorta,4511.0
+10281,46,Erkek,İstanbul,0+,Dahiliye,Anemi,3,26.5,128.0,Özel Sigorta,6313.0
+10586,48,Erkek,Ankara,A-,Kardiyoloji,Kalp Yetmezliği,4,22.0,111.0,SGK,11088.0
+10753,67,Kadın,Bursa,B-,Dahiliye,Diyabet,4,28.1,126.0,Özel Sigorta,7065.0
+10781,44,Kadın,İzmir,B-,Kardiyoloji,Aritmia,2,19.0,127.0,SGK,7260.0
+10290,40,Kadın,Konya,A+,Dahiliye,Diyabet,4,24.9,120.0,SGK,7069.0
+10166,62,Kadın,İzmir,0+,Pediatri,Bronşit,4,25.9,146.0,SGK,6173.0
+10606,69,Erkek,İstanbul,0+,Ortopedi,Artrit,4,28.7,130.0,SGK,11936.0
+10875,41,Kadın,Konya,A-,Pediatri,Alerji,2,23.7,110.0,SGK,4341.0
+10721,57,Kadın,İzmir,0+,Genel Cerrahi,Fıtık,1,24.8,116.0,Özel Sigorta,6151.0
+10066,18,Kadın,Ankara,0+,Dahiliye,Anemi,5,20.9,107.0,SGK,6936.0
+10142,84,Kadın,İstanbul,0+,Nöroloji,Migren,5,29.8,140.0,Özel Sigorta,10199.0
+10276,29,Erkek,Antalya,A+,Dahiliye,Diyabet,7,22.6,106.0,Yok,10235.0
+10836,36,Kadın,Ankara,0+,Genel Cerrahi,Kolon Polip,2,23.3,115.0,Özel Sigorta,9579.0
+10656,46,Kadın,İstanbul,B+,Genel Cerrahi,Fıtık,4,24.7,119.0,Özel Sigorta,14477.0
+10466,77,Erkek,İstanbul,B+,Nöroloji,İnme,10,28.6,123.0,Yok,14700.0
+10671,82,Erkek,Bursa,0+,Dahiliye,Tiroid,2,28.9,146.0,SGK,4917.0
+10320,80,Kadın,Bursa,B+,Dahiliye,KOAH,10,21.4,150.0,SGK,12449.0
+10399,24,Kadın,İstanbul,0+,Kardiyoloji,Koroner Arter,7,23.3,101.0,SGK,14981.0
+10307,25,Kadın,İzmir,0+,Genel Cerrahi,Apandisit,4,22.2,132.0,Özel Sigorta,14151.0
+10308,64,Erkek,İzmir,AB-,Nöroloji,İnme,4,24.6,131.0,SGK,8914.0
+10829,80,Kadın,Ankara,0+,Nöroloji,Parkinson,3,27.9,128.0,Özel Sigorta,7331.0
+10334,32,Erkek,Antalya,A-,Ortopedi,Artrit,1,20.8,118.0,Özel Sigorta,4740.0
+10050,46,Kadın,İzmir,0-,Dahiliye,Diyabet,2,23.1,116.0,Özel Sigorta,4506.0
+10826,77,Kadın,Antalya,B+,Genel Cerrahi,Apandisit,3,24.4,154.0,SGK,11677.0
+10003,29,Kadın,İstanbul,A-,Ortopedi,Disk Hernisi,10,22.6,122.0,Yok,21025.0
+10549,52,Kadın,İzmir,A+,Nöroloji,Migren,1,22.2,127.0,SGK,4205.0
+10353,29,Erkek,Konya,A+,Dahiliye,KOAH,10,20.6,109.0,Özel Sigorta,12202.0
+10913,74,Erkek,Bursa,0+,Dahiliye,Diyabet,3,27.6,142.0,SGK,5577.0
+10952,80,Erkek,İzmir,A+,Dahiliye,Tiroid,4,27.7,139.0,Özel Sigorta,7285.0
+10347,43,Erkek,İstanbul,AB-,Ortopedi,Kırık,1,,117.0,SGK,5255.0
+10217,25,Kadın,Adana,B+,Kardiyoloji,Koroner Arter,2,22.6,128.0,SGK,7068.0
+10825,77,Erkek,İstanbul,A+,Genel Cerrahi,Apandisit,2,24.0,128.0,SGK,9659.0
+10582,60,Erkek,İstanbul,0+,Kardiyoloji,Hipertansiyon,10,27.0,128.0,SGK,18011.0
+10034,69,Kadın,İzmir,0+,Dahiliye,Anemi,3,,142.0,SGK,6699.0
+10032,46,Kadın,Ankara,B-,Nöroloji,İnme,1,23.3,92.0,SGK,3772.0
+10232,52,Erkek,İstanbul,0+,Dahiliye,Tiroid,1,25.0,139.0,SGK,3133.0
+10755,61,Erkek,Adana,0+,Dahiliye,Diyabet,5,26.2,132.0,Özel Sigorta,7856.0
+10193,37,Erkek,Antalya,A+,Genel Cerrahi,Safra Kesesi,7,,131.0,SGK,19483.0
+10515,40,Erkek,Antalya,B+,Nöroloji,Parkinson,1,23.7,141.0,SGK,3656.0
+10004,56,Erkek,Bursa,B+,Pediatri,Bronşit,1,24.1,131.0,SGK,2798.0
+10205,53,Erkek,İzmir,0-,Kardiyoloji,Kalp Yetmezliği,2,26.1,131.0,SGK,7215.0
+10540,84,Kadın,Gaziantep,A+,Ortopedi,Kırık,4,30.4,134.0,SGK,12627.0
+10663,25,Erkek,İzmir,0+,Kardiyoloji,Koroner Arter,1,23.5,115.0,SGK,4389.0
+10989,64,Erkek,Ankara,A+,Genel Cerrahi,Safra Kesesi,2,25.1,136.0,Özel Sigorta,9585.0
+10110,81,Kadın,İstanbul,A+,Ortopedi,Kırık,21,26.2,125.0,SGK,31342.0
+10603,57,Kadın,Antalya,A+,Dahiliye,KOAH,4,28.0,120.0,SGK,7078.0
+10078,32,Kadın,Ankara,0+,Nöroloji,Parkinson,1,29.4,116.0,SGK,4322.0
+10085,44,Kadın,İstanbul,0+,Genel Cerrahi,Apandisit,4,26.6,127.0,Yok,13707.0
+10527,39,Erkek,Konya,B-,Ortopedi,Tendon Yırtığı,21,27.8,121.0,SGK,32570.0
+10083,70,Erkek,Antalya,B+,Dahiliye,KOAH,3,26.4,128.0,SGK,6235.0
+10255,45,Kadın,Konya,0+,Nöroloji,Migren,3,21.0,135.0,SGK,7377.0
+10765,46,Erkek,Konya,A+,Kardiyoloji,Kalp Yetmezliği,3,24.0,105.0,SGK,7682.0
+10429,50,Kadın,Konya,A+,Genel Cerrahi,Apandisit,10,26.5,99.0,SGK,24248.0
+10916,38,Erkek,Adana,B+,Nöroloji,Epilepsi,1,16.0,119.0,Özel Sigorta,4604.0
+10524,72,Erkek,Konya,0+,Dahiliye,Diyabet,1,24.6,128.0,SGK,
+10468,61,Kadın,Adana,0+,Nöroloji,Epilepsi,3,25.3,124.0,Yok,6740.0
+10645,38,Erkek,Adana,0+,Genel Cerrahi,Fıtık,10,23.0,118.0,Özel Sigorta,23931.0
+10006,30,Erkek,İstanbul,B+,Nöroloji,Parkinson,1,24.7,103.0,Özel Sigorta,3765.0
+10406,39,Kadın,Konya,A+,Dahiliye,KOAH,2,27.9,134.0,Yok,3979.0
+10469,44,Erkek,Gaziantep,B+,Genel Cerrahi,Fıtık,7,26.6,113.0,SGK,18824.0
+10098,42,Kadın,İzmir,0+,Pediatri,Bronşit,7,,133.0,SGK,8593.0
+10927,41,Erkek,Ankara,B+,Genel Cerrahi,Kolon Polip,10,,119.0,SGK,24660.0
+10360,65,Kadın,İstanbul,B+,Dahiliye,Diyabet,3,28.2,116.0,Özel Sigorta,
+10877,58,Erkek,İstanbul,A+,Genel Cerrahi,Apandisit,5,24.9,122.0,Özel Sigorta,14891.0
+10267,54,Kadın,İzmir,A-,Kardiyoloji,Koroner Arter,7,,132.0,SGK,14608.0
+10423,35,Erkek,İstanbul,A+,Nöroloji,Parkinson,5,20.6,106.0,SGK,9765.0
+10463,66,Erkek,Gaziantep,A+,Pediatri,Grip,3,26.7,145.0,SGK,4986.0
+10696,55,Kadın,İstanbul,0+,Kardiyoloji,Hipertansiyon,1,,134.0,SGK,4534.0
+10974,56,Kadın,İstanbul,B-,Dahiliye,Diyabet,1,27.2,115.0,SGK,3807.0
+10494,33,Kadın,Bursa,A-,Dahiliye,Tiroid,10,23.2,115.0,Özel Sigorta,13300.0
+10119,68,Erkek,İstanbul,A+,Kardiyoloji,Koroner Arter,2,24.1,145.0,SGK,6253.0
+10972,59,Erkek,Bursa,B+,Dahiliye,KOAH,3,32.5,134.0,Yok,5761.0
+10251,60,Erkek,Konya,A+,Dahiliye,Anemi,7,23.8,146.0,Özel Sigorta,10593.0
+10343,83,Erkek,İstanbul,AB+,Kardiyoloji,Kalp Yetmezliği,7,25.1,132.0,Yok,13750.0
+10010,77,Kadın,Ankara,AB-,Pediatri,Bronşit,1,25.1,145.0,Yok,2158.0
+10197,77,Erkek,İstanbul,AB+,Nöroloji,Migren,3,,132.0,Yok,7501.0
+10742,63,Erkek,İstanbul,AB-,Dahiliye,Tiroid,1,25.1,114.0,Özel Sigorta,3521.0
+10082,34,Kadın,İstanbul,AB+,Genel Cerrahi,Safra Kesesi,1,22.6,118.0,Yok,6094.0
+10949,76,Erkek,İstanbul,0+,Ortopedi,Tendon Yırtığı,10,28.2,141.0,SGK,20035.0
+10480,19,Erkek,Adana,AB+,Dahiliye,Diyabet,1,19.3,116.0,Yok,3137.0
+10626,82,Erkek,İstanbul,A+,Pediatri,Kulak İltihabı,1,27.5,134.0,SGK,3498.0
+10240,64,Erkek,Konya,A+,Genel Cerrahi,Kolon Polip,3,28.7,124.0,SGK,11067.0
+10293,67,Kadın,İstanbul,A+,Dahiliye,Diyabet,1,21.8,125.0,SGK,4269.0
+10212,35,Kadın,İzmir,A+,Kardiyoloji,Hipertansiyon,5,27.3,112.0,Yok,12370.0
+10901,67,Kadın,Adana,A+,Pediatri,Grip,1,29.1,139.0,Özel Sigorta,2386.0
+10362,60,Kadın,İzmir,AB+,Pediatri,Kulak İltihabı,1,20.7,138.0,SGK,3976.0
+10533,59,Kadın,İstanbul,0+,Ortopedi,Disk Hernisi,1,26.5,132.0,Özel Sigorta,5414.0
+10228,19,Kadın,İstanbul,B+,Pediatri,Grip,1,16.0,112.0,Özel Sigorta,2809.0
+10865,81,Kadın,Gaziantep,0+,Kardiyoloji,Kalp Yetmezliği,2,31.5,130.0,Yok,7445.0
+10363,38,Kadın,İstanbul,B-,Pediatri,Bronşit,5,25.7,111.0,SGK,7514.0
+10853,26,Erkek,Gaziantep,0+,Genel Cerrahi,Kolon Polip,1,26.0,103.0,Özel Sigorta,6072.0
+10955,49,Erkek,İstanbul,AB+,Nöroloji,Parkinson,4,22.1,117.0,SGK,8699.0
+10965,45,Erkek,Antalya,AB-,Genel Cerrahi,Fıtık,5,21.0,124.0,Özel Sigorta,16760.0
+10366,32,Kadın,İstanbul,A-,Pediatri,Alerji,1,23.7,116.0,Yok,2311.0
+10771,33,Erkek,Ankara,A+,Pediatri,Bronşit,4,28.0,127.0,SGK,6494.0
+10860,36,Kadın,Bursa,0+,Kardiyoloji,Kalp Yetmezliği,1,20.7,107.0,Özel Sigorta,5863.0
+10372,30,Kadın,İzmir,A+,Pediatri,Kulak İltihabı,1,23.4,116.0,SGK,2406.0
+10008,44,Erkek,Antalya,B+,Ortopedi,Disk Hernisi,2,22.2,109.0,SGK,8226.0
+10156,39,Kadın,Antalya,A+,Pediatri,Grip,14,20.7,120.0,SGK,13705.0
+10546,52,Kadın,İzmir,B+,Nöroloji,Epilepsi,2,26.1,131.0,SGK,5499.0
+10808,21,Erkek,İstanbul,B+,Pediatri,Grip,5,21.8,124.0,SGK,7770.0
+10486,75,Erkek,Adana,B+,Pediatri,Grip,4,27.8,126.0,SGK,6307.0
+10585,40,Erkek,Adana,B+,Dahiliye,Anemi,5,21.8,117.0,Özel Sigorta,8386.0
+10786,53,Erkek,Gaziantep,A+,Pediatri,Grip,5,23.0,120.0,Yok,8557.0
+10571,77,Erkek,İzmir,0-,Pediatri,Kulak İltihabı,5,28.2,137.0,Özel Sigorta,7165.0
+10478,19,Kadın,Ankara,A+,Pediatri,Alerji,1,26.4,98.0,SGK,1964.0
+10583,19,Erkek,Ankara,A+,Genel Cerrahi,Kolon Polip,2,22.4,108.0,SGK,8734.0
+10943,33,Kadın,Adana,A+,Nöroloji,Migren,3,19.8,108.0,SGK,7099.0
+10698,42,Kadın,İstanbul,A+,Kardiyoloji,Kalp Yetmezliği,1,26.5,117.0,Özel Sigorta,5130.0
+10833,75,Erkek,İstanbul,B+,Dahiliye,Diyabet,4,25.0,,SGK,6920.0
+10535,62,Kadın,Antalya,B+,Dahiliye,Tiroid,10,22.3,134.0,Özel Sigorta,12884.0
+10588,51,Kadın,Antalya,0+,Kardiyoloji,Kalp Yetmezliği,21,19.8,121.0,Yok,27571.0
+10715,49,Kadın,İstanbul,B+,Ortopedi,Kırık,1,26.7,108.0,Özel Sigorta,4661.0
+10452,63,Kadın,İzmir,B+,Kardiyoloji,Koroner Arter,2,31.1,128.0,Özel Sigorta,7816.0
+10457,53,Kadın,Antalya,A+,Pediatri,Alerji,1,,114.0,Yok,3492.0
+10229,34,Erkek,Ankara,A+,Dahiliye,Anemi,3,23.7,102.0,Özel Sigorta,6247.0
+10488,48,Erkek,Gaziantep,AB+,Dahiliye,Tiroid,2,29.6,119.0,SGK,5359.0
+10750,46,Erkek,İstanbul,A+,Kardiyoloji,Aritmia,5,20.9,122.0,Özel Sigorta,11862.0
+10213,57,Kadın,Antalya,B+,Pediatri,Alerji,4,28.8,132.0,SGK,5860.0
+10080,77,Kadın,Adana,A+,Nöroloji,Migren,2,25.9,149.0,Özel Sigorta,4835.0
+10149,67,Kadın,Bursa,B+,Dahiliye,Tiroid,3,30.4,147.0,SGK,5816.0
+10303,60,Kadın,İstanbul,A+,Ortopedi,Artrit,5,23.8,111.0,SGK,13364.0
+10666,34,Erkek,İstanbul,B+,Dahiliye,Diyabet,7,27.3,102.0,Özel Sigorta,10553.0
+10329,40,Erkek,Antalya,AB+,Genel Cerrahi,Safra Kesesi,1,26.7,112.0,SGK,6229.0
+10670,61,Kadın,Antalya,A+,Pediatri,Grip,2,24.5,110.0,SGK,4797.0
+10345,26,Kadın,Adana,A-,Dahiliye,KOAH,5,24.7,115.0,Özel Sigorta,8274.0
+10712,70,Kadın,Antalya,B+,Pediatri,Alerji,4,26.3,154.0,SGK,5971.0
+10508,39,Kadın,İstanbul,0+,Pediatri,Bronşit,2,27.0,107.0,Özel Sigorta,4958.0
+10134,39,Kadın,İstanbul,0+,Ortopedi,Kırık,2,24.0,108.0,Özel Sigorta,8524.0
+10555,71,Kadın,İstanbul,A+,Nöroloji,Migren,2,17.5,132.0,Yok,6166.0
+10312,36,Kadın,Antalya,A+,Pediatri,Bronşit,1,24.9,110.0,Özel Sigorta,2194.0
+10759,78,Erkek,Ankara,0+,Ortopedi,Disk Hernisi,4,32.7,136.0,Özel Sigorta,11943.0
+10500,20,Kadın,Antalya,B+,Dahiliye,KOAH,1,21.7,98.0,Yok,3117.0
+10001,48,Kadın,İzmir,A+,Dahiliye,Anemi,3,32.0,115.0,SGK,6472.0
+10317,79,Erkek,İzmir,A+,Kardiyoloji,Hipertansiyon,1,24.0,136.0,SGK,4976.0
+10714,33,Kadın,İstanbul,0+,Ortopedi,Artrit,5,30.6,96.0,SGK,13237.0
+10552,42,Erkek,İstanbul,A+,Nöroloji,Migren,10,23.3,107.0,Özel Sigorta,14571.0
+10804,71,Kadın,İstanbul,0+,Nöroloji,Migren,1,18.9,124.0,SGK,4527.0
+10537,47,Erkek,İstanbul,A+,Kardiyoloji,Koroner Arter,2,28.8,124.0,SGK,7126.0
+10746,39,Erkek,İstanbul,0+,Dahiliye,Anemi,1,21.0,118.0,Özel Sigorta,2802.0
+10846,50,Erkek,İstanbul,A+,Genel Cerrahi,Safra Kesesi,1,27.9,111.0,SGK,6169.0
+10173,49,Kadın,Ankara,A+,Genel Cerrahi,Fıtık,1,25.2,104.0,SGK,5339.0
+10126,50,Erkek,İstanbul,0+,Dahiliye,Tiroid,4,20.0,125.0,SGK,7783.0
+10990,32,Kadın,İstanbul,0-,Dahiliye,Diyabet,5,18.7,111.0,Özel Sigorta,7922.0
+10424,36,Kadın,İstanbul,0+,Genel Cerrahi,Kolon Polip,2,23.7,115.0,SGK,8591.0
+10809,77,Erkek,Antalya,B+,Genel Cerrahi,Safra Kesesi,1,31.2,129.0,SGK,5606.0
+10912,31,Kadın,Ankara,A+,Kardiyoloji,Hipertansiyon,5,24.4,96.0,SGK,11699.0
+10091,70,Erkek,İstanbul,A+,Nöroloji,Migren,3,27.8,111.0,SGK,7092.0
+10948,77,Kadın,Ankara,A-,Ortopedi,Kırık,1,32.7,119.0,SGK,4718.0
+10182,45,Kadın,Ankara,A+,Kardiyoloji,Koroner Arter,7,26.9,122.0,Özel Sigorta,
+10275,68,Erkek,İzmir,0+,Dahiliye,Anemi,5,20.2,124.0,Özel Sigorta,8131.0
+10904,32,Kadın,Ankara,A+,Dahiliye,Diyabet,1,26.8,132.0,Yok,2844.0
+10070,51,Erkek,İstanbul,0+,Genel Cerrahi,Fıtık,1,24.4,125.0,Özel Sigorta,5960.0
+10292,69,Erkek,İstanbul,0+,Kardiyoloji,Hipertansiyon,4,26.1,133.0,SGK,10257.0
+10132,50,Kadın,İzmir,0+,Pediatri,Alerji,4,22.5,102.0,Özel Sigorta,5998.0
+10301,82,Erkek,İstanbul,AB+,Genel Cerrahi,Fıtık,2,31.4,147.0,Yok,8925.0
+10933,58,Kadın,Adana,A+,Kardiyoloji,Hipertansiyon,2,20.2,124.0,Yok,6181.0
+10327,36,Erkek,Konya,B-,Genel Cerrahi,Safra Kesesi,3,19.9,113.0,Özel Sigorta,11876.0
+10145,23,Kadın,İzmir,B+,Ortopedi,Kırık,3,23.0,105.0,Yok,10032.0
+10498,29,Kadın,Bursa,0+,Nöroloji,Migren,2,20.5,109.0,Yok,5403.0
+10678,34,Kadın,Konya,AB+,Ortopedi,Artrit,10,21.9,127.0,Özel Sigorta,20709.0
+10951,81,Erkek,İzmir,A+,Ortopedi,Kırık,2,31.8,140.0,SGK,8824.0
+10136,55,Erkek,Bursa,A+,Pediatri,Alerji,5,,121.0,SGK,7613.0
+10782,83,Erkek,İstanbul,A-,Genel Cerrahi,Safra Kesesi,7,27.5,143.0,SGK,18620.0
+10165,42,Kadın,Ankara,A+,Kardiyoloji,Aritmia,2,26.7,133.0,SGK,7165.0
+10029,31,Kadın,İstanbul,B+,Kardiyoloji,Koroner Arter,1,23.2,110.0,Özel Sigorta,4546.0
+10961,31,Erkek,İzmir,A+,Dahiliye,Diyabet,3,24.2,112.0,Özel Sigorta,6133.0
+10194,54,Erkek,Adana,0-,Pediatri,Grip,4,25.3,130.0,SGK,6941.0
+10962,44,Kadın,Adana,A+,Nöroloji,Migren,3,26.0,145.0,Özel Sigorta,8161.0
+10644,59,Erkek,İstanbul,B+,Genel Cerrahi,Apandisit,3,25.9,125.0,Özel Sigorta,11818.0
+10170,25,Erkek,Ankara,A-,Dahiliye,KOAH,1,27.1,121.0,SGK,3489.0
+10986,53,Kadın,İstanbul,B+,Nöroloji,Migren,4,26.9,117.0,Yok,9246.0
+10141,78,Erkek,Ankara,0+,Nöroloji,Parkinson,3,25.1,126.0,SGK,7031.0
+10174,68,Erkek,Adana,0+,Genel Cerrahi,Safra Kesesi,2,28.7,138.0,SGK,9008.0
+10007,63,Erkek,İzmir,AB+,Ortopedi,Tendon Yırtığı,4,28.6,117.0,SGK,12274.0
+10897,62,Erkek,İstanbul,A+,Pediatri,Kulak İltihabı,4,24.7,121.0,SGK,6506.0
+10482,47,Kadın,Ankara,B-,Ortopedi,Disk Hernisi,2,25.5,139.0,SGK,7235.0
+10074,42,Erkek,İstanbul,B+,Dahiliye,Tiroid,1,30.1,126.0,Özel Sigorta,3506.0
+10690,75,Erkek,İstanbul,0+,Ortopedi,Disk Hernisi,1,28.4,116.0,Özel Sigorta,5677.0
+10584,77,Erkek,Adana,A-,Pediatri,Bronşit,3,29.7,139.0,Özel Sigorta,6147.0
+10239,40,Kadın,İstanbul,B+,Nöroloji,Migren,3,22.5,120.0,SGK,7022.0
+10146,49,Erkek,İzmir,0+,Kardiyoloji,Kalp Yetmezliği,1,27.5,139.0,Özel Sigorta,4584.0
+10800,27,Kadın,Ankara,A+,Pediatri,Alerji,1,26.7,,Özel Sigorta,1889.0
+10235,57,Erkek,İstanbul,B+,Kardiyoloji,Koroner Arter,1,33.0,109.0,Özel Sigorta,4767.0
+10221,19,Kadın,İstanbul,B+,Genel Cerrahi,Apandisit,2,19.6,98.0,Özel Sigorta,9284.0
+10479,61,Erkek,İstanbul,0+,Ortopedi,Tendon Yırtığı,3,22.0,131.0,Özel Sigorta,10934.0
+10719,32,Kadın,İstanbul,A+,Kardiyoloji,Kalp Yetmezliği,3,24.0,113.0,Özel Sigorta,7487.0
+10133,43,Kadın,Ankara,B+,Genel Cerrahi,Apandisit,2,27.5,122.0,SGK,8481.0
+10779,38,Kadın,Bursa,B+,Pediatri,Alerji,3,22.2,97.0,SGK,6060.0
+10985,58,Kadın,Bursa,B+,Ortopedi,Artrit,7,27.2,128.0,SGK,16780.0
+10186,80,Erkek,İzmir,0+,Dahiliye,Diyabet,3,24.7,118.0,SGK,6176.0
+10042,75,Kadın,Gaziantep,B+,Ortopedi,Disk Hernisi,7,28.1,133.0,Özel Sigorta,16961.0
+10617,72,Erkek,İzmir,0+,Dahiliye,Diyabet,3,28.1,122.0,SGK,6888.0
+10109,35,Kadın,Antalya,A+,Kardiyoloji,Kalp Yetmezliği,1,27.7,103.0,Yok,4415.0
+10595,26,Kadın,Antalya,0+,Dahiliye,KOAH,1,20.7,120.0,SGK,3715.0
+10057,84,Erkek,Bursa,0+,Nöroloji,Migren,7,28.1,142.0,SGK,12206.0
+10409,43,Kadın,İstanbul,B-,Genel Cerrahi,Apandisit,1,27.4,103.0,SGK,5697.0
+10446,84,Erkek,Ankara,0+,Pediatri,Kulak İltihabı,2,25.1,131.0,Özel Sigorta,4200.0
+10568,38,Kadın,Ankara,A+,Dahiliye,Tiroid,2,21.0,131.0,SGK,5184.0
+10869,81,Kadın,Adana,A+,Nöroloji,İnme,3,31.5,132.0,SGK,7235.0
+10025,27,Erkek,Ankara,B-,Genel Cerrahi,Fıtık,3,18.7,110.0,SGK,10936.0
+10421,77,Kadın,Adana,0+,Genel Cerrahi,Fıtık,21,28.3,136.0,Özel Sigorta,37443.0
+10450,41,Kadın,İstanbul,0+,Genel Cerrahi,Fıtık,2,20.2,110.0,Yok,9314.0
+10536,52,Erkek,Bursa,AB-,Ortopedi,Disk Hernisi,1,22.5,130.0,SGK,6202.0
+10779,38,Kadın,Bursa,B+,Pediatri,Alerji,3,22.2,97.0,SGK,6060.0
+10803,54,Erkek,Gaziantep,B+,Pediatri,Grip,4,22.5,121.0,SGK,5655.0
+10935,66,Erkek,İstanbul,B+,Ortopedi,Disk Hernisi,2,29.5,138.0,SGK,7983.0
+10339,66,Kadın,İzmir,0+,Pediatri,Kulak İltihabı,1,26.4,131.0,SGK,2747.0
+10052,49,Kadın,İstanbul,0+,Nöroloji,Epilepsi,2,20.8,122.0,SGK,4372.0
+10716,49,Erkek,İzmir,B+,Dahiliye,Tiroid,1,28.6,123.0,SGK,2960.0
+10520,69,Kadın,Bursa,A+,Nöroloji,Parkinson,5,26.4,141.0,SGK,10243.0
+10929,78,Kadın,Ankara,0+,Pediatri,Alerji,4,25.6,139.0,SGK,5990.0
+10639,51,Kadın,Adana,0+,Nöroloji,Migren,21,26.8,130.0,SGK,23507.0
+10265,37,Erkek,Adana,A+,Dahiliye,KOAH,2,21.7,113.0,Yok,5068.0
+10542,69,Kadın,İzmir,A+,Pediatri,Bronşit,7,27.7,130.0,SGK,9260.0
+10718,27,Kadın,Adana,0+,Nöroloji,Parkinson,1,24.2,107.0,SGK,4563.0
+10689,68,Kadın,İstanbul,B+,Kardiyoloji,Hipertansiyon,1,21.7,132.0,SGK,4617.0
+10590,19,Kadın,İstanbul,0-,Kardiyoloji,Kalp Yetmezliği,1,21.1,90.0,Özel Sigorta,3663.0
+10523,43,Erkek,Konya,B+,Ortopedi,Artrit,4,22.5,119.0,Özel Sigorta,11992.0
+10451,77,Erkek,İzmir,A-,Ortopedi,Tendon Yırtığı,1,,132.0,Yok,4913.0
+10019,37,Erkek,Gaziantep,0+,Nöroloji,İnme,3,21.9,131.0,Özel Sigorta,7333.0
+10723,72,Kadın,Adana,A+,Pediatri,Bronşit,4,25.1,120.0,SGK,7382.0
+10487,53,Kadın,Konya,0+,Genel Cerrahi,Kolon Polip,2,25.7,129.0,Yok,9666.0
+10573,49,Erkek,Bursa,B+,Dahiliye,KOAH,5,19.0,124.0,SGK,8539.0
+10437,28,Kadın,Ankara,A+,Dahiliye,Diyabet,2,21.5,128.0,SGK,4362.0
+10368,53,Erkek,Ankara,B+,Dahiliye,KOAH,4,32.1,122.0,SGK,6954.0
+10084,25,Erkek,Ankara,A+,Genel Cerrahi,Safra Kesesi,5,20.8,110.0,SGK,15477.0
+10062,23,Kadın,İstanbul,0+,Pediatri,Grip,7,20.7,122.0,SGK,8632.0
+10441,19,Kadın,İzmir,A+,Pediatri,Alerji,2,21.5,121.0,Yok,4207.0
+10273,76,Erkek,Bursa,0+,Nöroloji,Parkinson,2,27.3,120.0,Özel Sigorta,5525.0
+10286,67,Kadın,İzmir,B+,Kardiyoloji,Hipertansiyon,1,28.8,119.0,Yok,3408.0
+10361,63,Erkek,Ankara,A+,Kardiyoloji,Hipertansiyon,7,23.6,113.0,Yok,13436.0
+10355,65,Erkek,Bursa,A+,Pediatri,Grip,2,27.3,147.0,Özel Sigorta,4143.0
+10653,19,Kadın,İzmir,0+,Pediatri,Grip,2,21.5,121.0,SGK,4336.0
+10279,60,Kadın,İzmir,AB-,Kardiyoloji,Kalp Yetmezliği,4,19.9,123.0,SGK,10276.0
+10013,47,Erkek,Konya,0+,Genel Cerrahi,Fıtık,1,21.6,122.0,SGK,6332.0
+10183,52,Kadın,Ankara,0+,Ortopedi,Artrit,3,17.4,110.0,Özel Sigorta,9776.0
+10369,68,Kadın,Antalya,A+,Kardiyoloji,Hipertansiyon,4,27.4,118.0,Özel Sigorta,11348.0
+10496,34,Erkek,Adana,0+,Dahiliye,KOAH,3,21.6,129.0,Yok,6377.0
+10622,27,Erkek,İstanbul,A-,Dahiliye,Tiroid,1,20.2,104.0,SGK,3882.0
+10224,58,Kadın,Antalya,B-,Kardiyoloji,Hipertansiyon,7,25.1,120.0,SGK,13697.0
+10811,62,Erkek,İzmir,B-,Genel Cerrahi,Safra Kesesi,7,27.9,129.0,SGK,19272.0
+10706,27,Erkek,Antalya,A+,Pediatri,Bronşit,1,22.8,111.0,SGK,2703.0
+10507,38,Erkek,İstanbul,AB+,Genel Cerrahi,Kolon Polip,1,23.4,119.0,SGK,6562.0
+10550,37,Erkek,Ankara,AB-,Ortopedi,Disk Hernisi,1,21.1,111.0,Özel Sigorta,5889.0
+10589,27,Erkek,İstanbul,0+,Ortopedi,Tendon Yırtığı,2,23.0,113.0,Özel Sigorta,7850.0
+10335,38,Erkek,İstanbul,A+,Genel Cerrahi,Kolon Polip,3,22.2,124.0,Yok,10807.0
+10177,39,Erkek,Ankara,B+,Dahiliye,Tiroid,4,25.0,144.0,SGK,
+10741,25,Erkek,Bursa,B+,Nöroloji,Epilepsi,7,24.4,110.0,Özel Sigorta,12804.0
+10634,80,Erkek,Ankara,0+,Ortopedi,Kırık,3,26.1,120.0,SGK,9981.0
+10592,67,Kadın,Bursa,0+,Kardiyoloji,Hipertansiyon,5,23.1,126.0,SGK,11476.0
+10591,28,Kadın,Gaziantep,A+,Genel Cerrahi,Fıtık,1,18.6,121.0,SGK,6095.0
+10394,59,Erkek,İzmir,AB+,Pediatri,Alerji,7,24.0,120.0,SGK,9485.0
+10164,30,Erkek,İstanbul,A+,Genel Cerrahi,Fıtık,4,20.5,113.0,Yok,14517.0
+10249,37,Kadın,İstanbul,A-,Ortopedi,Artrit,3,24.4,115.0,Yok,9267.0
+10708,53,Kadın,Ankara,AB+,Genel Cerrahi,Safra Kesesi,2,25.5,134.0,Özel Sigorta,9114.0
+10894,33,Erkek,İstanbul,B+,Ortopedi,Artrit,2,,129.0,SGK,8578.0
+10676,41,Erkek,İzmir,0-,Ortopedi,Tendon Yırtığı,3,27.9,119.0,Özel Sigorta,10400.0
+10376,44,Kadın,Bursa,AB+,Kardiyoloji,Aritmia,2,24.5,119.0,SGK,6701.0
+10413,59,Kadın,Bursa,A-,Nöroloji,Parkinson,5,26.4,128.0,SGK,9734.0
+10075,41,Kadın,Gaziantep,B+,Genel Cerrahi,Apandisit,5,25.5,128.0,Özel Sigorta,15091.0
+10114,62,Kadın,Antalya,0+,Pediatri,Bronşit,1,24.0,125.0,SGK,3625.0
+10579,80,Kadın,Antalya,B+,Ortopedi,Kırık,3,26.0,119.0,Özel Sigorta,9855.0
+10939,19,Erkek,İzmir,A+,Genel Cerrahi,Kolon Polip,1,24.1,106.0,Özel Sigorta,5509.0
+10391,48,Erkek,İstanbul,B+,Kardiyoloji,Kalp Yetmezliği,5,,113.0,SGK,11708.0
+10105,19,Kadın,Gaziantep,B+,Kardiyoloji,Kalp Yetmezliği,14,18.7,116.0,SGK,22553.0
+10115,50,Erkek,Ankara,0+,Nöroloji,Parkinson,2,21.9,128.0,SGK,5872.0
+10418,67,Kadın,Gaziantep,B+,Nöroloji,Epilepsi,2,26.4,142.0,SGK,6637.0
+10594,73,Kadın,Ankara,B+,Genel Cerrahi,Apandisit,1,29.5,141.0,Özel Sigorta,6761.0
+10458,53,Erkek,İstanbul,B-,Nöroloji,Parkinson,3,25.3,138.0,SGK,7440.0
+10410,26,Erkek,Ankara,A+,Dahiliye,Tiroid,2,24.4,117.0,Özel Sigorta,5464.0
+10093,77,Kadın,İstanbul,AB+,Nöroloji,Migren,5,25.2,141.0,Yok,10060.0
+10569,42,Erkek,İstanbul,A+,Kardiyoloji,Kalp Yetmezliği,10,22.8,127.0,SGK,17629.0
+10090,61,Erkek,Ankara,B+,Pediatri,Alerji,1,27.8,119.0,Özel Sigorta,2724.0
+10337,77,Kadın,Adana,B-,Ortopedi,Artrit,1,26.9,131.0,Yok,5986.0
+10999,44,Erkek,Antalya,A-,Kardiyoloji,Kalp Yetmezliği,1,22.8,119.0,SGK,5187.0
+10930,45,Erkek,Ankara,0+,Kardiyoloji,Kalp Yetmezliği,5,27.3,123.0,SGK,11934.0
+10942,83,Erkek,Gaziantep,AB+,Genel Cerrahi,Kolon Polip,21,23.9,126.0,Özel Sigorta,37048.0
+10612,79,Erkek,İstanbul,A+,Ortopedi,Artrit,7,26.4,114.0,SGK,16651.0
+10600,33,Kadın,İstanbul,AB+,Ortopedi,Artrit,3,23.1,125.0,SGK,9882.0
+10618,19,Erkek,Adana,B+,Kardiyoloji,Koroner Arter,2,26.3,125.0,Yok,6700.0
+10095,37,Kadın,Bursa,B+,Dahiliye,Tiroid,3,18.6,123.0,SGK,6513.0
+10012,52,Kadın,Bursa,AB+,Ortopedi,Disk Hernisi,7,24.6,135.0,SGK,16396.0
+10397,73,Erkek,Adana,B+,Ortopedi,Disk Hernisi,5,26.2,129.0,Özel Sigorta,13642.0
+10874,18,Kadın,Adana,AB+,Dahiliye,Anemi,10,26.2,100.0,SGK,11971.0
+10044,63,Kadın,Bursa,B-,Ortopedi,Artrit,1,26.7,121.0,Özel Sigorta,5246.0
+10043,43,Kadın,Antalya,B-,Pediatri,Alerji,4,25.3,121.0,Özel Sigorta,6005.0
+10330,18,Kadın,Adana,B+,Genel Cerrahi,Fıtık,1,25.7,118.0,SGK,5773.0
+10168,72,Kadın,İstanbul,B-,Dahiliye,Diyabet,2,23.6,141.0,Özel Sigorta,3347.0
+10501,33,Erkek,Konya,B+,Kardiyoloji,Kalp Yetmezliği,14,23.5,109.0,Yok,21807.0
+10885,53,Kadın,İstanbul,0+,Ortopedi,Disk Hernisi,2,27.9,136.0,Özel Sigorta,7159.0
+10604,34,Kadın,İzmir,B+,Pediatri,Kulak İltihabı,1,16.7,103.0,Özel Sigorta,2862.0
+10893,27,Erkek,İstanbul,0+,Ortopedi,Tendon Yırtığı,1,25.5,109.0,SGK,5219.0
+10101,55,Erkek,Bursa,B+,Pediatri,Bronşit,2,24.8,124.0,Yok,4481.0
+10427,64,Kadın,İzmir,0+,Nöroloji,Migren,4,26.2,143.0,Özel Sigorta,8171.0
+10179,73,Kadın,Ankara,0+,Genel Cerrahi,Kolon Polip,1,27.0,139.0,SGK,5852.0
+10445,35,Kadın,İstanbul,0+,Dahiliye,Diyabet,3,17.7,123.0,Özel Sigorta,6643.0
+10417,54,Kadın,Ankara,0+,Kardiyoloji,Kalp Yetmezliği,1,22.5,114.0,SGK,2645.0
+10654,77,Kadın,Ankara,0+,Pediatri,Kulak İltihabı,14,20.8,141.0,SGK,12915.0
+10891,72,Kadın,İstanbul,A+,Kardiyoloji,Koroner Arter,10,28.2,128.0,Özel Sigorta,17993.0
+10665,66,Erkek,İstanbul,0+,Dahiliye,Tiroid,1,18.8,119.0,Özel Sigorta,3000.0
+10178,54,Kadın,Ankara,A+,Kardiyoloji,Aritmia,7,21.7,131.0,Özel Sigorta,14411.0
+10396,59,Kadın,Ankara,B+,Nöroloji,Epilepsi,2,25.2,117.0,Özel Sigorta,5375.0
+10683,48,Kadın,İstanbul,A+,Genel Cerrahi,Fıtık,5,20.7,99.0,Yok,15351.0
+10802,43,Kadın,Ankara,B+,Pediatri,Kulak İltihabı,1,20.1,107.0,Özel Sigorta,3478.0
+10971,61,Erkek,İstanbul,B-,Pediatri,Alerji,1,30.3,116.0,Özel Sigorta,2133.0
+10981,28,Erkek,İstanbul,0+,Genel Cerrahi,Fıtık,2,24.6,120.0,Özel Sigorta,9243.0
+10384,35,Kadın,Antalya,B+,Nöroloji,Migren,5,21.7,107.0,SGK,10373.0
+10967,80,Kadın,Ankara,B-,Genel Cerrahi,Kolon Polip,1,21.5,139.0,SGK,6175.0
+10619,79,Erkek,Bursa,B+,Dahiliye,Diyabet,2,24.3,143.0,Özel Sigorta,5876.0
+10258,54,Erkek,Antalya,B+,Dahiliye,Anemi,2,29.2,120.0,SGK,5124.0
+10336,36,Kadın,Ankara,0+,Ortopedi,Artrit,3,21.3,120.0,SGK,10109.0
+10016,77,Kadın,İzmir,0+,Dahiliye,Diyabet,7,27.8,118.0,Özel Sigorta,10144.0
+10636,69,Kadın,Antalya,AB+,Nöroloji,Epilepsi,4,27.6,132.0,Özel Sigorta,9124.0
+10325,48,Kadın,İstanbul,B+,Ortopedi,Disk Hernisi,2,23.0,126.0,SGK,7348.0
+10766,47,Erkek,İzmir,A-,Nöroloji,Epilepsi,1,23.6,136.0,SGK,
+10223,55,Kadın,İzmir,0+,Kardiyoloji,Hipertansiyon,3,21.7,126.0,SGK,8359.0
+10180,76,Kadın,Adana,A+,Kardiyoloji,Kalp Yetmezliği,4,31.7,147.0,Özel Sigorta,9869.0
+10994,29,Kadın,Ankara,B+,Ortopedi,Disk Hernisi,2,23.9,131.0,Özel Sigorta,7902.0
+10522,40,Kadın,Gaziantep,A+,Dahiliye,Anemi,2,23.5,119.0,SGK,4651.0
+10023,39,Erkek,Ankara,0+,Dahiliye,KOAH,1,24.5,135.0,Yok,3091.0
+10357,61,Erkek,Ankara,A+,Pediatri,Alerji,4,23.4,125.0,SGK,6921.0
+10680,37,Erkek,İstanbul,AB+,Pediatri,Alerji,1,23.8,132.0,SGK,3406.0
+10870,22,Erkek,Antalya,A+,Kardiyoloji,Koroner Arter,3,20.8,110.0,Yok,8159.0
+10341,61,Erkek,Bursa,B+,Kardiyoloji,Aritmia,4,24.2,115.0,SGK,8814.0
+10432,65,Erkek,İstanbul,AB+,Pediatri,Alerji,2,,123.0,SGK,4248.0
+10803,54,Erkek,Gaziantep,B+,Pediatri,Grip,4,22.5,121.0,SGK,5655.0
+10842,80,Kadın,Bursa,A+,Genel Cerrahi,Kolon Polip,2,19.7,151.0,Yok,9427.0
+10204,51,Kadın,İstanbul,0+,Genel Cerrahi,Safra Kesesi,1,33.9,119.0,SGK,6395.0
+10637,72,Kadın,Antalya,B+,Dahiliye,Diyabet,3,26.8,121.0,SGK,5654.0
+10094,20,Kadın,İstanbul,0+,Kardiyoloji,Hipertansiyon,2,24.5,114.0,Özel Sigorta,7685.0
+10807,63,Kadın,İzmir,B-,Kardiyoloji,Aritmia,21,25.5,143.0,SGK,27636.0
+10069,32,Kadın,İstanbul,A+,Nöroloji,İnme,2,21.9,112.0,Özel Sigorta,6104.0
+10629,62,Erkek,İzmir,AB+,Genel Cerrahi,Safra Kesesi,1,25.9,127.0,SGK,5971.0
+10285,60,Kadın,İzmir,A+,Kardiyoloji,Koroner Arter,1,25.0,116.0,SGK,4726.0
+10886,47,Kadın,Antalya,A+,Kardiyoloji,Aritmia,7,25.3,126.0,SGK,15148.0
+10435,52,Kadın,Ankara,A-,Dahiliye,Tiroid,2,19.6,125.0,Yok,5328.0
+10154,23,Kadın,İstanbul,B+,Pediatri,Grip,3,18.9,111.0,Özel Sigorta,5443.0
+10076,29,Kadın,Adana,A-,Pediatri,Bronşit,10,29.6,131.0,Özel Sigorta,10601.0
+10738,38,Erkek,Antalya,B+,Nöroloji,Parkinson,4,27.9,115.0,SGK,8556.0
+10447,59,Kadın,Antalya,B+,Nöroloji,İnme,3,29.0,125.0,Özel Sigorta,7706.0
+10189,48,Kadın,İzmir,0+,Ortopedi,Artrit,4,27.5,123.0,Yok,11912.0
+10272,52,Kadın,Ankara,B+,Dahiliye,Diyabet,2,26.7,123.0,Özel Sigorta,4471.0
+10237,53,Kadın,Adana,0+,Pediatri,Alerji,2,23.3,112.0,SGK,4413.0
+10488,48,Erkek,Gaziantep,AB+,Dahiliye,Tiroid,2,29.6,119.0,SGK,5359.0
+10118,28,Erkek,Konya,B+,Dahiliye,Diyabet,2,22.7,118.0,SGK,5031.0
+10827,36,Erkek,İstanbul,A-,Ortopedi,Tendon Yırtığı,1,25.4,128.0,SGK,5117.0
+10513,31,Erkek,Konya,0+,Nöroloji,Epilepsi,4,20.8,128.0,Yok,8194.0
+10558,31,Erkek,Antalya,A-,Nöroloji,Epilepsi,14,23.8,119.0,Yok,17453.0
+10598,79,Erkek,İzmir,B+,Pediatri,Grip,2,30.8,136.0,SGK,3626.0
+10127,57,Kadın,Konya,B+,Genel Cerrahi,Apandisit,21,32.0,,Özel Sigorta,36273.0
+10117,25,Erkek,İzmir,0+,Kardiyoloji,Aritmia,1,23.6,102.0,Özel Sigorta,4982.0
+10474,84,Erkek,Konya,B+,Kardiyoloji,Hipertansiyon,2,33.2,131.0,SGK,6217.0
+10966,43,Erkek,Ankara,A+,Nöroloji,Parkinson,7,24.7,124.0,SGK,12111.0
+10058,73,Kadın,Konya,B+,Dahiliye,KOAH,1,28.6,135.0,SGK,3092.0
+10681,38,Kadın,Bursa,B-,Nöroloji,Migren,3,21.6,95.0,Özel Sigorta,7745.0
+10921,29,Kadın,İstanbul,A+,Ortopedi,Tendon Yırtığı,5,20.2,110.0,Yok,13409.0
+10370,32,Kadın,İzmir,0+,Dahiliye,Tiroid,7,22.6,,Yok,10315.0
+10269,43,Kadın,Ankara,0+,Genel Cerrahi,Kolon Polip,10,22.9,111.0,Yok,23749.0
+10047,30,Erkek,İstanbul,A+,Nöroloji,İnme,10,20.2,101.0,Yok,14967.0
+10350,45,Erkek,İstanbul,B-,Kardiyoloji,Aritmia,5,26.6,125.0,Özel Sigorta,12162.0
+10196,37,Kadın,İstanbul,B-,Ortopedi,Kırık,7,24.9,119.0,Özel Sigorta,17036.0
+10171,70,Erkek,İzmir,B+,Dahiliye,Tiroid,1,30.2,143.0,SGK,3149.0
+10843,64,Erkek,İstanbul,A+,Nöroloji,İnme,3,30.5,127.0,SGK,7260.0
+10744,40,Erkek,Ankara,0+,Pediatri,Alerji,2,24.0,111.0,SGK,4152.0
+10264,78,Kadın,Ankara,A+,Ortopedi,Artrit,4,31.5,141.0,SGK,11544.0
+10444,24,Kadın,İstanbul,A+,Ortopedi,Artrit,3,21.1,110.0,Özel Sigorta,10096.0
+10810,74,Kadın,İstanbul,0+,Kardiyoloji,Koroner Arter,1,26.7,141.0,Yok,4131.0
+10305,34,Erkek,Gaziantep,AB-,Pediatri,Kulak İltihabı,14,23.9,117.0,SGK,12924.0
+10342,28,Erkek,Gaziantep,B+,Dahiliye,KOAH,2,18.7,116.0,Yok,4638.0
+10605,69,Erkek,İstanbul,B+,Kardiyoloji,Hipertansiyon,3,33.3,119.0,Yok,9965.0
+10977,67,Erkek,İstanbul,B+,Kardiyoloji,Hipertansiyon,2,25.5,132.0,SGK,7210.0
+10150,79,Erkek,Adana,B+,Genel Cerrahi,Kolon Polip,1,24.8,135.0,SGK,5948.0
+10125,37,Erkek,Ankara,B+,Ortopedi,Tendon Yırtığı,2,16.0,117.0,SGK,7212.0
+10794,33,Erkek,Gaziantep,A+,Dahiliye,KOAH,2,23.0,117.0,Özel Sigorta,5173.0
+10831,41,Erkek,İstanbul,B+,Kardiyoloji,Kalp Yetmezliği,1,24.7,132.0,Özel Sigorta,4723.0
+10051,46,Erkek,Adana,A+,Genel Cerrahi,Safra Kesesi,7,22.5,128.0,SGK,19496.0
+10354,22,Erkek,Adana,B+,Genel Cerrahi,Safra Kesesi,5,19.2,114.0,Yok,16058.0
+10936,34,Erkek,Antalya,0+,Pediatri,Bronşit,4,31.5,114.0,SGK,6552.0
+10143,23,Kadın,İstanbul,0+,Dahiliye,Diyabet,1,22.8,109.0,SGK,3018.0
+10471,38,Kadın,Ankara,AB+,Kardiyoloji,Aritmia,1,30.0,114.0,SGK,4523.0
+10400,71,Kadın,İstanbul,A+,Pediatri,Grip,2,23.7,110.0,SGK,3913.0
+10632,77,Kadın,İzmir,0+,Ortopedi,Artrit,3,22.5,141.0,Yok,10209.0
+10321,50,Erkek,Ankara,A+,Ortopedi,Kırık,3,27.9,119.0,SGK,10019.0
+10020,81,Kadın,Gaziantep,A+,Dahiliye,Tiroid,21,23.3,143.0,Özel Sigorta,20520.0
+10818,72,Kadın,İstanbul,A+,Kardiyoloji,Koroner Arter,7,23.7,132.0,SGK,13656.0
+10801,41,Erkek,Gaziantep,A+,Pediatri,Alerji,5,25.0,123.0,Özel Sigorta,6918.0
+10817,75,Kadın,Ankara,B+,Genel Cerrahi,Apandisit,10,29.1,131.0,Özel Sigorta,23787.0
+10408,26,Erkek,İstanbul,B+,Genel Cerrahi,Kolon Polip,2,24.5,109.0,Yok,9114.0
+10538,47,Kadın,İstanbul,B+,Kardiyoloji,Kalp Yetmezliği,2,23.7,147.0,Yok,7639.0
+10627,30,Kadın,İstanbul,A-,Nöroloji,İnme,1,19.1,126.0,Özel Sigorta,3219.0
+10039,23,Erkek,İzmir,A-,Dahiliye,Tiroid,2,19.0,107.0,SGK,4158.0
+10176,35,Kadın,Ankara,A-,Nöroloji,İnme,5,23.4,100.0,SGK,9925.0
+10246,27,Kadın,İstanbul,AB+,Ortopedi,Disk Hernisi,7,25.0,130.0,SGK,16810.0
+10837,65,Kadın,İzmir,0+,Ortopedi,Disk Hernisi,2,24.7,111.0,SGK,8086.0
+10674,18,Kadın,Ankara,B-,Nöroloji,Parkinson,10,25.0,109.0,SGK,15170.0
+10762,80,Kadın,Ankara,A+,Nöroloji,Migren,1,28.9,120.0,SGK,3325.0
+10867,66,Erkek,İstanbul,0+,Pediatri,Grip,1,27.0,138.0,SGK,3199.0
+10155,75,Erkek,Ankara,B-,Dahiliye,Anemi,7,29.7,134.0,Özel Sigorta,10141.0
+10288,61,Kadın,Bursa,B+,Ortopedi,Artrit,3,21.9,118.0,SGK,10242.0
+10821,51,Erkek,Antalya,0+,Dahiliye,Anemi,3,26.3,133.0,Özel Sigorta,6340.0
+10570,62,Kadın,Gaziantep,0+,Pediatri,Alerji,1,21.1,107.0,Özel Sigorta,2528.0
+10751,69,Kadın,Bursa,A+,Kardiyoloji,Aritmia,1,31.2,128.0,Yok,5616.0
+10018,39,Erkek,İstanbul,A+,Genel Cerrahi,Fıtık,14,24.5,117.0,Özel Sigorta,29695.0
+10128,49,Erkek,İstanbul,0+,Ortopedi,Kırık,2,23.0,132.0,Özel Sigorta,7554.0
+10323,65,Erkek,İstanbul,B+,Kardiyoloji,Aritmia,7,23.6,132.0,Özel Sigorta,14964.0
+10256,54,Kadın,İstanbul,AB+,Ortopedi,Tendon Yırtığı,3,21.3,121.0,Özel Sigorta,10607.0
+10775,82,Erkek,İstanbul,0+,Kardiyoloji,Hipertansiyon,10,26.3,109.0,SGK,
+10975,69,Kadın,İstanbul,A+,Nöroloji,İnme,21,26.6,130.0,Özel Sigorta,22993.0
+10191,78,Kadın,Antalya,A+,Ortopedi,Tendon Yırtığı,3,24.6,141.0,SGK,10142.0
+10116,58,Kadın,Ankara,AB+,Nöroloji,İnme,1,22.4,134.0,SGK,3291.0
+10623,75,Kadın,Bursa,A-,Pediatri,Kulak İltihabı,14,28.7,141.0,SGK,14456.0
+10607,53,Erkek,İstanbul,0+,Dahiliye,Tiroid,14,24.3,123.0,SGK,15652.0
+10181,20,Kadın,Gaziantep,0+,Kardiyoloji,Koroner Arter,3,23.8,105.0,SGK,9363.0
+10302,72,Kadın,Adana,0+,Kardiyoloji,Kalp Yetmezliği,4,30.2,150.0,Yok,10455.0
+10095,37,Kadın,Bursa,B+,Dahiliye,Tiroid,3,18.6,123.0,SGK,6513.0
+10900,38,Kadın,İstanbul,B+,Ortopedi,Kırık,1,21.6,122.0,Yok,5476.0
+10731,63,Kadın,İzmir,A+,Genel Cerrahi,Safra Kesesi,2,31.4,113.0,SGK,8796.0
+10844,74,Erkek,Adana,B-,Ortopedi,Disk Hernisi,2,25.1,138.0,SGK,8378.0
+10668,62,Erkek,Ankara,0-,Dahiliye,Diyabet,4,19.7,130.0,Özel Sigorta,6976.0
+10518,82,Kadın,Konya,B+,Pediatri,Alerji,2,26.8,115.0,Özel Sigorta,4210.0
+10995,19,Kadın,Adana,B+,Pediatri,Bronşit,2,21.0,93.0,SGK,4204.0
+10046,21,Erkek,Adana,B+,Kardiyoloji,Kalp Yetmezliği,1,23.1,117.0,Özel Sigorta,4252.0
+10918,54,Erkek,Adana,AB+,Genel Cerrahi,Safra Kesesi,7,24.6,131.0,Özel Sigorta,19715.0
+10158,20,Erkek,İstanbul,A+,Ortopedi,Artrit,2,23.8,107.0,Özel Sigorta,8145.0
+10752,44,Erkek,Bursa,A-,Pediatri,Kulak İltihabı,10,24.0,120.0,SGK,10703.0
+10172,72,Kadın,İstanbul,0+,Dahiliye,Tiroid,14,30.3,123.0,SGK,16056.0
+10017,54,Kadın,Konya,B-,Genel Cerrahi,Fıtık,1,23.1,118.0,SGK,5060.0
+10512,55,Erkek,İstanbul,A+,Nöroloji,Migren,2,26.8,95.0,Özel Sigorta,6274.0
+10049,32,Kadın,Bursa,A-,Kardiyoloji,Koroner Arter,5,25.7,117.0,SGK,11461.0
+10982,29,Erkek,İstanbul,A-,Nöroloji,İnme,7,24.5,120.0,SGK,12341.0
+10849,37,Erkek,İstanbul,0+,Genel Cerrahi,Kolon Polip,2,17.3,112.0,SGK,8883.0
+10516,83,Erkek,İstanbul,B+,Kardiyoloji,Aritmia,14,34.0,137.0,SGK,22667.0
+10693,25,Kadın,Ankara,B-,Genel Cerrahi,Fıtık,7,,111.0,SGK,
+10481,52,Kadın,Ankara,AB+,Nöroloji,Parkinson,4,24.8,122.0,SGK,8174.0
+10284,73,Kadın,İstanbul,A+,Ortopedi,Disk Hernisi,2,23.9,125.0,SGK,7678.0
+10850,64,Kadın,Bursa,B-,Nöroloji,Parkinson,7,27.3,136.0,SGK,12001.0
+10661,45,Kadın,İzmir,0+,Dahiliye,Tiroid,5,,122.0,SGK,8867.0
+10226,77,Erkek,Bursa,A+,Genel Cerrahi,Kolon Polip,2,29.9,140.0,Özel Sigorta,9272.0
+10027,39,Kadın,Bursa,A-,Dahiliye,Anemi,1,25.9,132.0,Yok,4155.0
+10790,31,Erkek,Adana,A+,Ortopedi,Tendon Yırtığı,1,22.3,108.0,SGK,6016.0
+10438,27,Erkek,İstanbul,0+,Pediatri,Kulak İltihabı,4,21.7,111.0,SGK,5829.0
+10960,32,Kadın,İzmir,0+,Pediatri,Grip,4,24.0,120.0,Özel Sigorta,6389.0
+10365,64,Kadın,İzmir,0+,Genel Cerrahi,Kolon Polip,3,28.3,144.0,Özel Sigorta,11858.0
+10230,45,Kadın,Bursa,A+,Nöroloji,İnme,1,24.1,110.0,SGK,3522.0
+10038,50,Kadın,İstanbul,0+,Ortopedi,Disk Hernisi,3,26.4,119.0,Yok,10069.0
+10976,40,Erkek,Adana,B+,Ortopedi,Kırık,3,19.2,117.0,SGK,
+10375,69,Kadın,İstanbul,B+,Nöroloji,İnme,1,28.7,140.0,Özel Sigorta,3094.0
+10470,49,Kadın,Bursa,B+,Genel Cerrahi,Safra Kesesi,4,29.8,112.0,SGK,14508.0
+10978,60,Kadın,Konya,B+,Pediatri,Grip,21,29.2,121.0,SGK,17974.0
+10859,68,Kadın,Bursa,B+,Genel Cerrahi,Apandisit,7,23.6,128.0,SGK,19743.0
+10713,49,Erkek,Gaziantep,0+,Dahiliye,Diyabet,1,25.7,119.0,SGK,2706.0
+10733,49,Erkek,İzmir,A+,Dahiliye,Diyabet,4,26.8,126.0,Yok,7529.0
+10195,21,Erkek,Ankara,A+,Kardiyoloji,Hipertansiyon,10,18.0,130.0,SGK,17812.0
+10910,59,Erkek,İzmir,B+,Kardiyoloji,Aritmia,2,25.0,117.0,SGK,7109.0
+10873,52,Erkek,İstanbul,B-,Dahiliye,Diyabet,2,31.4,126.0,SGK,4509.0
+10504,22,Erkek,Ankara,A+,Pediatri,Grip,7,22.9,104.0,Özel Sigorta,9113.0
+10980,68,Kadın,Ankara,B+,Dahiliye,KOAH,2,22.1,137.0,Özel Sigorta,4886.0
+10883,48,Kadın,Bursa,AB+,Ortopedi,Kırık,7,27.7,105.0,Özel Sigorta,16800.0
+10580,23,Erkek,İstanbul,AB+,Dahiliye,Diyabet,4,25.7,117.0,SGK,6916.0
+10979,36,Erkek,Bursa,0+,Nöroloji,Epilepsi,14,26.1,113.0,SGK,18047.0
+10163,29,Kadın,Ankara,A+,Pediatri,Grip,7,23.5,123.0,SGK,9396.0
+10709,29,Kadın,İzmir,B+,Pediatri,Bronşit,3,18.8,111.0,SGK,3970.0
+10153,21,Erkek,İstanbul,0+,Ortopedi,Artrit,4,24.8,115.0,Özel Sigorta,11619.0
+10688,45,Kadın,Antalya,A-,Kardiyoloji,Koroner Arter,7,23.6,,SGK,13588.0
+10707,38,Kadın,Bursa,B+,Pediatri,Grip,1,19.6,120.0,SGK,3861.0
+10763,36,Erkek,Gaziantep,B+,Ortopedi,Disk Hernisi,7,26.6,109.0,Yok,16038.0
+10112,49,Kadın,İstanbul,A-,Kardiyoloji,Aritmia,1,27.8,125.0,SGK,4187.0
+10227,31,Erkek,Bursa,0+,Nöroloji,Parkinson,1,21.6,126.0,Özel Sigorta,
+10695,27,Kadın,İstanbul,0+,Dahiliye,Anemi,2,23.2,129.0,SGK,4808.0
+10104,80,Kadın,İstanbul,B+,Kardiyoloji,Hipertansiyon,2,32.1,135.0,Yok,6958.0
+10422,56,Kadın,İstanbul,B+,Nöroloji,İnme,3,26.8,128.0,Özel Sigorta,7306.0
+10420,36,Kadın,Konya,0+,Pediatri,Grip,2,22.5,111.0,SGK,4154.0
+10758,54,Kadın,Ankara,A+,Genel Cerrahi,Apandisit,3,26.6,134.0,SGK,12012.0
+10587,22,Kadın,İzmir,AB-,Pediatri,Kulak İltihabı,7,24.6,112.0,SGK,9285.0
+10788,71,Erkek,Ankara,A+,Nöroloji,Epilepsi,1,25.1,119.0,Özel Sigorta,3617.0
+10673,60,Kadın,Ankara,0+,Ortopedi,Artrit,4,20.9,119.0,SGK,12106.0
+10120,58,Erkek,Ankara,B+,Dahiliye,KOAH,14,20.6,125.0,SGK,14786.0
+10054,64,Kadın,İzmir,A+,Kardiyoloji,Koroner Arter,2,24.1,124.0,SGK,6276.0
+10152,24,Erkek,İstanbul,A+,Pediatri,Kulak İltihabı,21,24.8,113.0,Yok,
+10404,64,Erkek,Bursa,0+,Dahiliye,Tiroid,4,29.7,126.0,Yok,7751.0
+10954,81,Kadın,Konya,A-,Nöroloji,İnme,2,21.9,146.0,Özel Sigorta,5361.0
+10208,59,Kadın,İstanbul,A+,Dahiliye,Anemi,3,26.6,125.0,Özel Sigorta,6348.0
+10659,77,Kadın,İzmir,B+,Kardiyoloji,Kalp Yetmezliği,2,28.2,128.0,Özel Sigorta,7136.0
+10852,64,Kadın,Konya,B+,Nöroloji,Parkinson,2,23.9,128.0,SGK,
+10988,26,Erkek,İzmir,B+,Pediatri,Grip,4,24.0,127.0,SGK,7206.0
+10009,34,Erkek,İzmir,0+,Ortopedi,Artrit,2,24.3,113.0,Özel Sigorta,8157.0
+10909,38,Kadın,Ankara,0+,Genel Cerrahi,Fıtık,3,19.6,108.0,Özel Sigorta,11508.0
+10037,28,Erkek,İstanbul,0+,Genel Cerrahi,Kolon Polip,3,20.4,123.0,SGK,11108.0
+10453,36,Kadın,İzmir,B+,Ortopedi,Disk Hernisi,1,25.2,122.0,SGK,5488.0
+10652,18,Erkek,Bursa,A-,Nöroloji,Epilepsi,3,16.0,111.0,Özel Sigorta,7702.0
+10254,81,Erkek,Gaziantep,A+,Ortopedi,Disk Hernisi,3,29.6,141.0,SGK,9635.0
+10304,47,Kadın,Antalya,0+,Kardiyoloji,Aritmia,2,27.4,109.0,SGK,7068.0
+10754,40,Kadın,Gaziantep,B+,Pediatri,Kulak İltihabı,1,22.8,119.0,SGK,2046.0
+10572,29,Erkek,İzmir,A-,Kardiyoloji,Kalp Yetmezliği,3,,118.0,Özel Sigorta,8324.0
+10624,56,Kadın,İzmir,AB+,Kardiyoloji,Aritmia,4,22.8,119.0,SGK,10469.0
+10717,28,Kadın,Antalya,AB-,Kardiyoloji,Koroner Arter,1,28.4,124.0,SGK,4954.0
+10905,49,Erkek,Konya,B+,Nöroloji,Epilepsi,1,23.5,107.0,SGK,4181.0
+10263,23,Kadın,İstanbul,B+,Kardiyoloji,Koroner Arter,3,27.4,,SGK,8649.0
+10611,80,Erkek,İstanbul,0+,Dahiliye,Anemi,2,29.9,132.0,SGK,5798.0
+10298,22,Kadın,Bursa,B+,Dahiliye,Tiroid,2,,113.0,SGK,6046.0
+10415,66,Erkek,İzmir,0+,Genel Cerrahi,Safra Kesesi,3,24.8,135.0,SGK,11499.0
+10151,79,Erkek,İzmir,B+,Pediatri,Bronşit,5,27.9,145.0,Yok,8272.0
+10984,41,Kadın,İstanbul,0+,Dahiliye,KOAH,4,23.8,121.0,SGK,7213.0
+10641,69,Erkek,Konya,A+,Dahiliye,Diyabet,3,22.5,123.0,SGK,6226.0
+10938,22,Kadın,Bursa,B+,Genel Cerrahi,Apandisit,1,18.9,110.0,Yok,
+10551,27,Kadın,İstanbul,0+,Kardiyoloji,Koroner Arter,2,25.4,117.0,Yok,6732.0
+10799,37,Kadın,Konya,AB-,Ortopedi,Kırık,2,,119.0,SGK,7807.0
+10489,64,Erkek,Ankara,A+,Pediatri,Bronşit,4,26.2,145.0,Yok,6111.0
+10711,30,Erkek,Bursa,A+,Dahiliye,Anemi,2,20.6,120.0,SGK,5481.0
+10148,25,Erkek,İstanbul,B+,Pediatri,Kulak İltihabı,7,20.8,113.0,Yok,8467.0
+10147,58,Erkek,Gaziantep,B+,Dahiliye,KOAH,1,25.0,135.0,Yok,2954.0
+10854,33,Kadın,Adana,B+,Ortopedi,Kırık,3,28.7,128.0,SGK,9728.0
+10940,39,Kadın,Gaziantep,0+,Nöroloji,Parkinson,4,20.9,117.0,SGK,
+10747,46,Erkek,İzmir,A+,Ortopedi,Artrit,1,28.5,97.0,SGK,5847.0
+10660,38,Erkek,Ankara,A+,Genel Cerrahi,Kolon Polip,2,27.3,127.0,SGK,9230.0
+10349,83,Kadın,Ankara,0+,Ortopedi,Artrit,3,33.4,151.0,Özel Sigorta,10811.0
+10464,77,Kadın,İstanbul,AB+,Kardiyoloji,Kalp Yetmezliği,1,28.4,138.0,Özel Sigorta,4536.0
+10326,21,Kadın,İstanbul,0+,Ortopedi,Artrit,10,24.1,127.0,SGK,21891.0
+10187,24,Kadın,İstanbul,0+,Pediatri,Kulak İltihabı,5,22.0,106.0,SGK,7365.0
+10124,71,Erkek,Bursa,B+,Pediatri,Grip,7,27.2,142.0,Yok,9040.0
+10862,52,Kadın,Konya,A+,Genel Cerrahi,Fıtık,3,22.4,121.0,SGK,11942.0
+10609,67,Kadın,İstanbul,0+,Dahiliye,Tiroid,1,23.3,129.0,Özel Sigorta,3568.0
+10144,26,Erkek,İstanbul,B+,Pediatri,Bronşit,2,26.6,116.0,SGK,4541.0
+10969,42,Erkek,İzmir,A-,Kardiyoloji,Hipertansiyon,10,23.7,116.0,SGK,18298.0
+10198,41,Erkek,Ankara,B+,Dahiliye,Tiroid,4,17.4,125.0,Yok,7047.0
+10610,80,Kadın,Antalya,B+,Genel Cerrahi,Safra Kesesi,1,28.9,145.0,Özel Sigorta,5463.0
+10280,67,Erkek,İstanbul,B+,Genel Cerrahi,Apandisit,2,31.7,135.0,Özel Sigorta,8588.0
+10294,25,Erkek,Bursa,0+,Ortopedi,Disk Hernisi,1,25.4,,Yok,5859.0
+10401,18,Erkek,Ankara,A+,Dahiliye,Anemi,7,21.1,113.0,Yok,10639.0
+10123,49,Erkek,İstanbul,A+,Genel Cerrahi,Kolon Polip,3,23.9,121.0,Özel Sigorta,11448.0
+10184,78,Erkek,Adana,A+,Genel Cerrahi,Fıtık,4,31.5,128.0,Yok,14631.0
+10203,83,Erkek,İstanbul,0+,Kardiyoloji,Kalp Yetmezliği,3,31.4,137.0,Özel Sigorta,9336.0
+10439,74,Erkek,İzmir,A+,Dahiliye,Anemi,7,27.2,142.0,SGK,10153.0
+10247,18,Kadın,İstanbul,A+,Genel Cerrahi,Kolon Polip,5,22.5,90.0,Özel Sigorta,16388.0
+10416,43,Kadın,İstanbul,A+,Ortopedi,Artrit,7,29.9,128.0,Yok,16417.0
+10784,30,Erkek,Bursa,0+,Ortopedi,Kırık,4,27.4,120.0,SGK,12557.0
+10868,38,Kadın,İzmir,B+,Dahiliye,Anemi,1,26.0,116.0,Özel Sigorta,2350.0
+10915,75,Kadın,Antalya,0+,Genel Cerrahi,Apandisit,1,28.9,135.0,Özel Sigorta,6858.0
+10931,75,Kadın,Bursa,A-,Nöroloji,Parkinson,5,24.3,145.0,Özel Sigorta,10847.0
+10896,61,Erkek,İstanbul,B-,Nöroloji,Migren,5,30.3,114.0,SGK,9646.0
+10130,50,Kadın,İstanbul,A+,Kardiyoloji,Koroner Arter,7,20.2,118.0,SGK,13902.0
+10638,43,Kadın,İzmir,B+,Kardiyoloji,Hipertansiyon,5,20.8,110.0,SGK,10767.0
+10403,62,Erkek,İstanbul,A+,Kardiyoloji,Kalp Yetmezliği,1,19.0,124.0,SGK,3967.0
+10895,71,Erkek,Gaziantep,0+,Pediatri,Bronşit,3,25.6,151.0,Yok,5439.0
+10778,27,Erkek,İstanbul,B+,Ortopedi,Tendon Yırtığı,1,22.6,96.0,SGK,5691.0
+10736,64,Erkek,Gaziantep,0+,Dahiliye,KOAH,3,22.7,112.0,SGK,7055.0
+10922,78,Erkek,İstanbul,AB+,Kardiyoloji,Hipertansiyon,10,31.2,132.0,SGK,18355.0
+10220,31,Erkek,İstanbul,AB+,Dahiliye,Tiroid,1,,120.0,SGK,2556.0
+10642,46,Erkek,İstanbul,B-,Kardiyoloji,Hipertansiyon,10,23.7,121.0,SGK,17332.0
+10924,50,Kadın,İzmir,B+,Kardiyoloji,Aritmia,2,24.2,109.0,Özel Sigorta,6917.0
+10760,73,Erkek,Ankara,A+,Pediatri,Grip,5,28.0,144.0,SGK,6907.0
+10815,31,Kadın,İstanbul,0+,Pediatri,Bronşit,5,28.6,129.0,SGK,7592.0
+10928,78,Kadın,İzmir,0+,Ortopedi,Tendon Yırtığı,21,25.6,128.0,SGK,31845.0
+10625,22,Kadın,İstanbul,B+,Pediatri,Alerji,5,18.8,113.0,SGK,7752.0
+10847,34,Erkek,Antalya,A+,Dahiliye,Diyabet,2,,110.0,Özel Sigorta,6135.0
+10768,42,Kadın,Adana,B-,Genel Cerrahi,Fıtık,21,26.0,125.0,Özel Sigorta,36497.0
+10387,21,Kadın,Antalya,A+,Nöroloji,Epilepsi,2,,112.0,SGK,5260.0
+10983,25,Kadın,İstanbul,B+,Kardiyoloji,Kalp Yetmezliği,4,23.6,113.0,SGK,10486.0
+10510,50,Erkek,İstanbul,0+,Nöroloji,Parkinson,1,26.6,144.0,SGK,4030.0
+10268,37,Erkek,Gaziantep,0+,Nöroloji,Parkinson,1,23.7,108.0,SGK,4096.0
+10828,66,Erkek,Ankara,A+,Ortopedi,Tendon Yırtığı,2,25.0,145.0,SGK,7877.0
+10442,81,Erkek,Bursa,0+,Dahiliye,Diyabet,21,25.0,130.0,SGK,20396.0
+10497,33,Erkek,İstanbul,AB+,Nöroloji,Migren,2,26.3,127.0,SGK,5030.0
+10113,28,Kadın,Ankara,B-,Ortopedi,Kırık,3,21.7,109.0,SGK,10052.0
+10692,22,Erkek,İstanbul,B+,Dahiliye,KOAH,1,21.6,107.0,Özel Sigorta,4029.0
+10233,22,Kadın,Adana,A+,Ortopedi,Artrit,7,19.1,109.0,SGK,16854.0
+10878,71,Kadın,Gaziantep,0+,Pediatri,Grip,4,28.4,126.0,SGK,5966.0
+10608,55,Kadın,Bursa,B+,Kardiyoloji,Koroner Arter,1,23.3,128.0,Özel Sigorta,4374.0
+10672,25,Erkek,İzmir,0+,Genel Cerrahi,Apandisit,5,25.6,,Yok,15621.0
+10374,51,Kadın,Konya,B-,Ortopedi,Disk Hernisi,5,25.2,120.0,SGK,13651.0
+10992,59,Erkek,İstanbul,0+,Nöroloji,İnme,1,20.6,136.0,SGK,4250.0
+10851,32,Erkek,Konya,0+,Nöroloji,İnme,4,27.8,110.0,Özel Sigorta,8694.0
+10234,82,Kadın,Bursa,B+,Ortopedi,Tendon Yırtığı,2,28.1,131.0,Yok,8148.0
+10793,37,Kadın,İstanbul,B+,Genel Cerrahi,Kolon Polip,2,33.3,114.0,SGK,8575.0
+10677,41,Erkek,Adana,A+,Genel Cerrahi,Kolon Polip,4,23.2,118.0,Özel Sigorta,13988.0
+10318,83,Erkek,İzmir,0+,Genel Cerrahi,Fıtık,5,,139.0,Yok,15297.0
+10649,34,Erkek,Konya,AB+,Nöroloji,İnme,3,25.5,133.0,SGK,6899.0
+10411,32,Kadın,İstanbul,AB-,Ortopedi,Artrit,3,25.1,114.0,Özel Sigorta,10684.0
+10907,32,Kadın,Bursa,0+,Genel Cerrahi,Apandisit,7,28.4,111.0,SGK,18497.0
+10710,19,Kadın,İstanbul,B+,Ortopedi,Artrit,5,23.2,120.0,SGK,13700.0
+10359,60,Erkek,Konya,B+,Ortopedi,Tendon Yırtığı,1,27.0,134.0,Özel Sigorta,5898.0
+10259,66,Kadın,Gaziantep,B+,Dahiliye,Diyabet,3,23.8,138.0,SGK,5744.0
+10745,39,Erkek,Konya,A-,Kardiyoloji,Koroner Arter,1,25.8,111.0,Özel Sigorta,5126.0
+10628,70,Erkek,Bursa,0+,Nöroloji,Migren,1,20.8,138.0,Özel Sigorta,2935.0
+10633,28,Kadın,Konya,A+,Pediatri,Bronşit,2,,117.0,Özel Sigorta,4106.0
+10283,56,Kadın,İstanbul,0+,Pediatri,Grip,5,29.1,138.0,Yok,
+10377,46,Erkek,Konya,A+,Nöroloji,İnme,3,23.9,121.0,SGK,8311.0
+10385,19,Kadın,Antalya,B-,Ortopedi,Kırık,2,19.6,106.0,SGK,7912.0
+10225,79,Erkek,Antalya,B+,Ortopedi,Artrit,5,25.6,123.0,SGK,13671.0
+10964,75,Erkek,İstanbul,B+,Kardiyoloji,Koroner Arter,5,31.4,134.0,SGK,12523.0
+10823,36,Erkek,İstanbul,0+,Nöroloji,Migren,3,19.3,121.0,Yok,7385.0
+10473,67,Kadın,Ankara,0+,Pediatri,Alerji,7,28.4,131.0,SGK,9117.0
+10348,65,Kadın,İzmir,A+,Dahiliye,Diyabet,2,25.2,126.0,SGK,4901.0
+10506,47,Kadın,İstanbul,0+,Nöroloji,İnme,2,,125.0,Özel Sigorta,5911.0
+10640,69,Erkek,Ankara,0+,Nöroloji,Parkinson,2,29.0,142.0,SGK,6217.0
+10998,20,Erkek,İzmir,A+,Kardiyoloji,Hipertansiyon,5,17.9,110.0,Yok,11519.0
+10798,21,Erkek,İstanbul,A+,Genel Cerrahi,Safra Kesesi,2,16.0,111.0,Yok,8775.0
+10937,82,Erkek,Ankara,0+,Dahiliye,Anemi,1,31.1,134.0,SGK,2847.0
+10914,54,Erkek,Ankara,B+,Nöroloji,İnme,1,25.0,137.0,SGK,4291.0
+10620,38,Kadın,Bursa,0+,Ortopedi,Disk Hernisi,4,20.8,130.0,SGK,12268.0
+10864,43,Erkek,İzmir,B+,Ortopedi,Kırık,2,24.1,116.0,SGK,6959.0
+10812,37,Erkek,İstanbul,B-,Kardiyoloji,Kalp Yetmezliği,2,25.2,118.0,Yok,5755.0
+10646,59,Erkek,Ankara,A-,Pediatri,Kulak İltihabı,1,25.1,134.0,SGK,2667.0
+10855,78,Kadın,İstanbul,A+,Ortopedi,Artrit,5,26.0,129.0,Özel Sigorta,13332.0
+10557,53,Kadın,Bursa,A+,Genel Cerrahi,Apandisit,1,22.6,128.0,SGK,6865.0
+10968,83,Kadın,İstanbul,0+,Dahiliye,KOAH,2,21.0,134.0,SGK,5340.0
+10578,77,Kadın,Ankara,B+,Kardiyoloji,Kalp Yetmezliği,2,26.3,145.0,Özel Sigorta,6656.0
+10796,75,Kadın,Antalya,A+,Pediatri,Grip,4,25.1,138.0,SGK,6714.0
+10086,63,Kadın,Ankara,AB-,Dahiliye,KOAH,5,23.9,118.0,Özel Sigorta,8030.0
+10243,27,Erkek,İzmir,B+,Kardiyoloji,Kalp Yetmezliği,2,22.8,108.0,Özel Sigorta,6641.0
+10699,83,Erkek,İstanbul,A+,Genel Cerrahi,Fıtık,4,,133.0,SGK,13947.0
+10160,77,Kadın,Antalya,A+,Dahiliye,Diyabet,4,23.1,136.0,SGK,7534.0
+10525,23,Erkek,Bursa,0+,Dahiliye,Anemi,4,24.0,105.0,Yok,6669.0
+10036,46,Kadın,İstanbul,B+,Genel Cerrahi,Safra Kesesi,7,,128.0,SGK,20630.0
+10541,24,Erkek,Adana,A+,Dahiliye,Diyabet,4,23.9,119.0,SGK,7506.0
+10171,70,Erkek,İzmir,B+,Dahiliye,Tiroid,1,30.2,143.0,SGK,3149.0
+10655,65,Erkek,Konya,A-,Pediatri,Kulak İltihabı,7,18.5,133.0,SGK,9371.0
+10899,74,Erkek,Bursa,B+,Ortopedi,Artrit,21,25.3,129.0,Yok,32577.0
+10866,54,Kadın,İzmir,B+,Pediatri,Grip,21,23.4,,Özel Sigorta,17608.0
+10856,27,Kadın,Ankara,0+,Nöroloji,Epilepsi,2,21.7,129.0,SGK,5835.0
+10953,66,Erkek,Gaziantep,AB+,Pediatri,Bronşit,2,23.6,123.0,Yok,4277.0
+10734,56,Erkek,Ankara,B+,Pediatri,Bronşit,1,32.6,110.0,Yok,3807.0
+10096,63,Erkek,Antalya,A+,Dahiliye,Tiroid,2,24.1,110.0,Özel Sigorta,4517.0
+10564,23,Erkek,Ankara,A+,Nöroloji,Epilepsi,5,21.6,111.0,Yok,9991.0
+10241,48,Erkek,Ankara,B+,Genel Cerrahi,Fıtık,4,26.0,139.0,SGK,13859.0
+10743,24,Erkek,İstanbul,0+,Dahiliye,Diyabet,1,24.6,106.0,Özel Sigorta,3016.0
+10575,48,Kadın,İstanbul,AB-,Pediatri,Grip,3,23.9,106.0,SGK,5825.0
+10691,22,Kadın,İzmir,A+,Pediatri,Grip,1,20.3,103.0,SGK,2057.0
+10461,58,Kadın,İstanbul,B+,Kardiyoloji,Hipertansiyon,2,23.8,127.0,SGK,
+10554,42,Kadın,İstanbul,0+,Nöroloji,Epilepsi,2,25.8,117.0,Özel Sigorta,5861.0
+10887,41,Erkek,İzmir,0+,Ortopedi,Disk Hernisi,14,21.1,104.0,Özel Sigorta,26063.0
+10207,56,Erkek,İstanbul,A-,Dahiliye,Tiroid,4,24.6,141.0,SGK,6870.0
+10393,73,Kadın,İstanbul,0+,Genel Cerrahi,Safra Kesesi,1,33.1,109.0,Özel Sigorta,6026.0
+10795,73,Erkek,İstanbul,A+,Kardiyoloji,Aritmia,2,27.5,133.0,Yok,7106.0
+10398,53,Erkek,İstanbul,B+,Nöroloji,Epilepsi,7,28.1,118.0,SGK,12610.0
+10767,56,Erkek,Bursa,A-,Nöroloji,İnme,3,24.3,122.0,Özel Sigorta,8289.0
+10884,41,Kadın,İzmir,B-,Ortopedi,Artrit,1,26.0,127.0,Yok,4760.0
+10218,59,Erkek,İstanbul,B+,Nöroloji,Parkinson,3,26.5,124.0,Özel Sigorta,7368.0
+10005,83,Erkek,Bursa,AB+,Pediatri,Alerji,2,29.5,160.0,Özel Sigorta,4006.0
+10769,25,Kadın,Ankara,0+,Nöroloji,Epilepsi,2,18.3,112.0,Özel Sigorta,5165.0
+10643,55,Kadın,Ankara,B+,Pediatri,Grip,5,24.1,124.0,SGK,7405.0
+10906,37,Kadın,Adana,A-,Pediatri,Alerji,4,23.5,132.0,SGK,6205.0
+10613,24,Kadın,Konya,B+,Nöroloji,İnme,1,25.8,,Özel Sigorta,3602.0
+10739,30,Kadın,Gaziantep,B+,Nöroloji,Parkinson,7,,131.0,SGK,12334.0
+10547,83,Erkek,Ankara,B-,Pediatri,Bronşit,3,31.4,124.0,Özel Sigorta,6355.0
+10726,39,Kadın,İzmir,B+,Ortopedi,Tendon Yırtığı,3,21.1,103.0,Yok,11083.0
+10684,28,Kadın,Konya,AB+,Nöroloji,Migren,1,21.5,102.0,Özel Sigorta,4358.0
+10099,34,Erkek,İstanbul,0+,Kardiyoloji,Aritmia,2,19.6,115.0,SGK,6720.0
+10805,38,Erkek,Antalya,0+,Nöroloji,Epilepsi,1,26.5,115.0,Özel Sigorta,4345.0
+10728,61,Kadın,Ankara,0+,Ortopedi,Artrit,4,28.3,141.0,Yok,11660.0
+10574,30,Kadın,İzmir,B-,Nöroloji,Migren,2,20.7,113.0,SGK,5948.0
+10407,38,Erkek,İstanbul,A+,Kardiyoloji,Hipertansiyon,4,,102.0,Yok,10191.0
+10503,40,Erkek,Konya,0+,Genel Cerrahi,Safra Kesesi,21,19.8,122.0,Yok,37455.0
+10048,56,Erkek,İzmir,0+,Dahiliye,Diyabet,4,26.6,121.0,Özel Sigorta,6903.0
+10033,53,Kadın,Ankara,0+,Dahiliye,Anemi,2,25.5,123.0,Özel Sigorta,4585.0
+10780,63,Erkek,İstanbul,AB-,Nöroloji,İnme,1,29.6,109.0,SGK,3566.0
+10840,72,Erkek,İzmir,0+,Pediatri,Alerji,4,24.4,122.0,SGK,7031.0
+10201,68,Erkek,İstanbul,B+,Kardiyoloji,Kalp Yetmezliği,7,25.8,141.0,Yok,14609.0
+10135,83,Erkek,Ankara,A+,Kardiyoloji,Hipertansiyon,1,25.7,136.0,SGK,4576.0
+10028,67,Erkek,Antalya,A+,Kardiyoloji,Koroner Arter,3,24.2,115.0,SGK,8936.0
+10889,24,Kadın,İzmir,A-,Dahiliye,Anemi,3,21.7,104.0,SGK,6312.0
+10231,83,Erkek,İstanbul,A+,Genel Cerrahi,Fıtık,3,24.6,132.0,SGK,11789.0
+10490,72,Kadın,İstanbul,B+,Kardiyoloji,Aritmia,1,25.2,135.0,SGK,4393.0
+10773,22,Erkek,Konya,0+,Kardiyoloji,Aritmia,2,17.9,106.0,SGK,5819.0
+10379,52,Erkek,İstanbul,0+,Nöroloji,İnme,1,26.5,126.0,Özel Sigorta,3610.0
+10289,55,Erkek,Ankara,0+,Ortopedi,Artrit,3,28.8,126.0,SGK,10594.0
+10419,41,Erkek,Adana,B-,Genel Cerrahi,Kolon Polip,7,24.2,112.0,SGK,19284.0
+10675,68,Erkek,Bursa,AB+,Nöroloji,Epilepsi,4,26.0,120.0,SGK,7763.0
+10392,80,Kadın,Ankara,B-,Ortopedi,Kırık,1,24.5,124.0,Yok,
+10593,48,Kadın,Gaziantep,0+,Kardiyoloji,Aritmia,7,24.1,109.0,Yok,13906.0
+10499,25,Kadın,Antalya,AB+,Pediatri,Bronşit,7,23.9,100.0,SGK,8570.0
+10139,61,Erkek,İzmir,0-,Ortopedi,Disk Hernisi,1,24.0,146.0,SGK,5517.0
+10063,36,Kadın,İstanbul,A-,Ortopedi,Disk Hernisi,5,20.6,122.0,SGK,13800.0
+10472,25,Erkek,Bursa,B-,Pediatri,Grip,2,23.9,111.0,SGK,4157.0
+10648,81,Kadın,İstanbul,A+,Kardiyoloji,Hipertansiyon,1,23.7,120.0,SGK,3630.0
+10129,19,Kadın,Ankara,0+,Ortopedi,Disk Hernisi,4,16.0,99.0,SGK,12155.0
+10987,72,Kadın,İzmir,A+,Kardiyoloji,Aritmia,2,24.4,146.0,Özel Sigorta,6237.0
+10521,79,Kadın,İstanbul,A+,Kardiyoloji,Hipertansiyon,1,29.3,157.0,SGK,4738.0
+10839,72,Kadın,İzmir,A+,Kardiyoloji,Koroner Arter,1,31.1,142.0,SGK,4787.0
+10973,23,Erkek,Antalya,B+,Kardiyoloji,Hipertansiyon,1,26.4,104.0,SGK,4252.0
+10065,20,Kadın,Ankara,0+,Kardiyoloji,Koroner Arter,7,26.1,113.0,Özel Sigorta,14157.0
+10813,34,Erkek,Gaziantep,A+,Ortopedi,Tendon Yırtığı,1,27.4,116.0,SGK,4475.0
+10015,45,Erkek,İstanbul,B+,Nöroloji,İnme,4,21.6,103.0,Özel Sigorta,8956.0
+10157,43,Kadın,İstanbul,A+,Ortopedi,Artrit,5,26.4,113.0,Özel Sigorta,13787.0
+10041,68,Kadın,İstanbul,B+,Kardiyoloji,Hipertansiyon,7,30.7,132.0,SGK,14824.0
+10493,72,Kadın,İstanbul,B-,Genel Cerrahi,Fıtık,4,21.6,131.0,SGK,13169.0
+10380,25,Kadın,Ankara,A+,Ortopedi,Disk Hernisi,2,22.1,129.0,SGK,6947.0
+10188,66,Erkek,Antalya,B+,Kardiyoloji,Kalp Yetmezliği,4,21.4,120.0,Yok,9865.0
+10764,40,Erkek,İstanbul,A+,Pediatri,Kulak İltihabı,2,25.3,127.0,Özel Sigorta,4089.0
+10217,25,Kadın,Adana,B+,Kardiyoloji,Koroner Arter,2,22.6,128.0,SGK,7068.0
+10792,70,Kadın,Adana,A+,Pediatri,Kulak İltihabı,7,27.5,121.0,Özel Sigorta,8607.0
+10053,19,Kadın,Bursa,A+,Nöroloji,Epilepsi,1,26.5,112.0,Yok,3686.0
+10879,63,Kadın,Adana,0-,Nöroloji,İnme,2,25.6,115.0,Yok,5206.0
+10338,50,Erkek,Ankara,0+,Nöroloji,Epilepsi,7,23.5,124.0,Özel Sigorta,12492.0
+10749,19,Kadın,Konya,0+,Kardiyoloji,Koroner Arter,1,24.0,109.0,SGK,4877.0
+10720,34,Kadın,İstanbul,B+,Kardiyoloji,Aritmia,7,20.1,123.0,SGK,14274.0
+10725,76,Erkek,Adana,A+,Genel Cerrahi,Safra Kesesi,1,27.0,149.0,SGK,4705.0
+10296,25,Erkek,Antalya,A+,Dahiliye,KOAH,3,19.3,112.0,SGK,6313.0
+10702,66,Erkek,Ankara,AB-,Nöroloji,Parkinson,5,29.8,111.0,SGK,9890.0
+10252,18,Erkek,İstanbul,B+,Ortopedi,Artrit,1,23.7,105.0,SGK,5286.0
+10727,47,Erkek,Antalya,B+,Kardiyoloji,Aritmia,10,28.4,120.0,Özel Sigorta,18291.0
+10462,30,Kadın,Gaziantep,0+,Dahiliye,Anemi,1,21.8,108.0,SGK,2149.0
+10456,56,Kadın,İzmir,A+,Nöroloji,Epilepsi,1,27.3,,SGK,3963.0
+10813,34,Erkek,Gaziantep,A+,Ortopedi,Tendon Yırtığı,1,27.4,116.0,SGK,4475.0
+10816,20,Kadın,İstanbul,A-,Dahiliye,Diyabet,21,16.2,118.0,Özel Sigorta,19482.0
+10863,63,Kadın,İzmir,0+,Nöroloji,Epilepsi,2,26.4,130.0,SGK,5808.0
+10270,46,Kadın,Bursa,A+,Nöroloji,Migren,3,30.1,109.0,Özel Sigorta,7101.0
+10202,53,Kadın,Adana,A-,Dahiliye,KOAH,4,23.8,132.0,SGK,7323.0
+10162,29,Kadın,Bursa,A+,Nöroloji,Migren,2,26.1,126.0,SGK,5407.0
+10556,50,Kadın,Bursa,A+,Nöroloji,Migren,4,30.6,120.0,SGK,8675.0
+10730,68,Erkek,İstanbul,A+,Nöroloji,İnme,1,20.0,125.0,Yok,3921.0
+10402,61,Kadın,Konya,AB+,Nöroloji,Epilepsi,1,26.4,135.0,Özel Sigorta,3965.0
+10703,53,Erkek,İstanbul,AB+,Dahiliye,Tiroid,1,24.7,133.0,Yok,3304.0
+10477,20,Erkek,Ankara,A+,Genel Cerrahi,Apandisit,5,24.5,123.0,SGK,16374.0
+10822,47,Kadın,İzmir,A+,Nöroloji,İnme,3,26.1,112.0,Yok,7590.0
+10772,18,Kadın,Ankara,A+,Pediatri,Alerji,5,26.9,138.0,Yok,7236.0
+10106,28,Erkek,Adana,B+,Dahiliye,KOAH,1,22.5,102.0,Özel Sigorta,3638.0
+10566,30,Erkek,İstanbul,B+,Ortopedi,Artrit,2,24.9,127.0,Yok,7522.0
+10390,30,Erkek,İstanbul,A-,Kardiyoloji,Aritmia,5,20.5,118.0,SGK,11521.0
+10002,19,Kadın,İzmir,B+,Pediatri,Grip,4,22.6,113.0,Özel Sigorta,6945.0
+10946,57,Erkek,Ankara,A+,Genel Cerrahi,Safra Kesesi,3,23.1,121.0,SGK,12213.0
+10993,77,Erkek,Antalya,AB+,Ortopedi,Artrit,3,29.7,121.0,SGK,9434.0
+10562,20,Erkek,Adana,0+,Nöroloji,Migren,1,16.4,120.0,SGK,3951.0
+10081,63,Kadın,İzmir,0+,Nöroloji,İnme,4,25.2,130.0,SGK,8646.0
+10206,23,Erkek,İzmir,A+,Nöroloji,Migren,14,19.3,101.0,SGK,18643.0
+10035,24,Kadın,Ankara,0+,Genel Cerrahi,Apandisit,3,25.1,112.0,SGK,11865.0
+10776,21,Kadın,İstanbul,A+,Nöroloji,Epilepsi,4,24.9,125.0,Özel Sigorta,9340.0
+10509,49,Kadın,İstanbul,B+,Dahiliye,Anemi,2,25.4,127.0,SGK,5095.0
+10428,66,Kadın,Bursa,A+,Genel Cerrahi,Kolon Polip,3,26.1,127.0,SGK,11924.0
+10455,49,Erkek,İzmir,0+,Nöroloji,Parkinson,2,25.5,111.0,SGK,6295.0
+10367,42,Kadın,İstanbul,B+,Ortopedi,Kırık,1,21.0,120.0,Özel Sigorta,5473.0
+10092,41,Erkek,Antalya,A+,Pediatri,Grip,1,30.6,107.0,Özel Sigorta,2709.0
+10340,52,Erkek,İzmir,A+,Genel Cerrahi,Apandisit,2,28.3,125.0,Yok,9074.0
+10898,73,Erkek,İzmir,B-,Nöroloji,Migren,4,27.4,133.0,SGK,9058.0
+10565,42,Kadın,Gaziantep,A-,Pediatri,Grip,1,25.4,115.0,SGK,1964.0
+10346,20,Kadın,İzmir,B+,Pediatri,Grip,1,23.4,119.0,SGK,2365.0
+10777,81,Kadın,Ankara,0+,Kardiyoloji,Koroner Arter,1,21.6,144.0,Özel Sigorta,4177.0
+10242,28,Kadın,İstanbul,B-,Ortopedi,Disk Hernisi,1,25.3,125.0,Yok,
+10014,80,Kadın,Bursa,B+,Pediatri,Kulak İltihabı,4,30.5,124.0,SGK,6050.0
+10316,65,Kadın,Adana,B+,Dahiliye,Anemi,2,23.1,133.0,SGK,4171.0
+10601,21,Kadın,İstanbul,AB+,Kardiyoloji,Koroner Arter,7,23.3,107.0,SGK,13608.0
+10388,24,Kadın,Bursa,A+,Nöroloji,Parkinson,3,21.4,97.0,Yok,7344.0
+10274,50,Kadın,Konya,AB-,Kardiyoloji,Aritmia,5,23.5,131.0,Özel Sigorta,12436.0
+10167,36,Kadın,Gaziantep,0+,Genel Cerrahi,Safra Kesesi,1,18.4,97.0,SGK,5461.0
+10841,35,Kadın,İzmir,B+,Pediatri,Bronşit,1,22.7,124.0,Özel Sigorta,3023.0
+10272,52,Kadın,Ankara,B+,Dahiliye,Diyabet,2,26.7,123.0,Özel Sigorta,4471.0
+10647,30,Erkek,İstanbul,0+,Nöroloji,Epilepsi,10,24.9,108.0,SGK,15371.0
+10819,21,Erkek,İzmir,0+,Kardiyoloji,Hipertansiyon,1,20.8,117.0,Yok,4966.0
+10485,61,Erkek,İstanbul,0+,Kardiyoloji,Aritmia,3,25.0,121.0,Yok,8419.0
+10991,65,Kadın,İstanbul,A-,Nöroloji,İnme,4,24.1,134.0,Özel Sigorta,8922.0
+10505,82,Erkek,İzmir,0+,Nöroloji,Parkinson,5,,138.0,SGK,9616.0
+10832,47,Kadın,İzmir,A+,Genel Cerrahi,Apandisit,3,25.0,128.0,SGK,11131.0
+10244,84,Kadın,Antalya,AB+,Kardiyoloji,Koroner Arter,2,23.3,127.0,SGK,7045.0
+10567,25,Erkek,İstanbul,B+,Pediatri,Grip,3,23.9,117.0,SGK,5019.0
+10876,74,Kadın,İstanbul,B+,Nöroloji,İnme,1,32.3,146.0,SGK,4346.0
+10563,58,Kadın,Bursa,B+,Pediatri,Bronşit,2,,149.0,SGK,4027.0
+10963,57,Kadın,Adana,0-,Kardiyoloji,Kalp Yetmezliği,4,26.3,133.0,SGK,10406.0
+10687,24,Erkek,Antalya,0+,Pediatri,Bronşit,1,25.5,107.0,Özel Sigorta,3019.0
+10958,37,Erkek,Ankara,AB+,Ortopedi,Tendon Yırtığı,3,24.6,131.0,SGK,11118.0
+10190,75,Kadın,Adana,B+,Genel Cerrahi,Fıtık,3,,,SGK,11424.0
+10783,58,Erkek,Ankara,B+,Ortopedi,Tendon Yırtığı,1,24.0,117.0,Yok,5331.0
+10700,67,Kadın,Bursa,B+,Pediatri,Kulak İltihabı,1,,124.0,SGK,3610.0
+10476,75,Erkek,İzmir,A+,Pediatri,Kulak İltihabı,5,28.4,123.0,Özel Sigorta,7355.0
+10682,75,Erkek,Ankara,A+,Dahiliye,Diyabet,4,25.1,123.0,SGK,6926.0
+10511,33,Kadın,İstanbul,AB-,Dahiliye,KOAH,3,16.1,118.0,SGK,6066.0
+10059,38,Kadın,İzmir,0+,Dahiliye,Diyabet,3,22.5,122.0,SGK,5654.0
+10475,61,Kadın,Konya,A-,Pediatri,Alerji,1,23.4,117.0,SGK,2634.0
+10561,69,Erkek,Konya,A+,Dahiliye,Tiroid,4,29.8,142.0,SGK,7404.0
+10857,67,Kadın,Adana,B+,Dahiliye,Diyabet,5,23.2,130.0,Özel Sigorta,8426.0
+10748,30,Erkek,İzmir,B+,Genel Cerrahi,Fıtık,7,25.1,100.0,Özel Sigorta,19158.0
+10253,74,Kadın,Gaziantep,AB-,Dahiliye,KOAH,1,28.6,112.0,Özel Sigorta,3533.0
+10022,29,Erkek,Konya,0+,Kardiyoloji,Hipertansiyon,1,22.2,118.0,SGK,4354.0
+10314,31,Erkek,İstanbul,A+,Dahiliye,Diyabet,2,25.1,113.0,Özel Sigorta,4385.0
+10460,25,Kadın,İstanbul,A+,Genel Cerrahi,Kolon Polip,1,24.9,113.0,Özel Sigorta,
+10161,31,Kadın,Ankara,0+,Nöroloji,Migren,1,24.8,115.0,SGK,3600.0
+10277,37,Erkek,İstanbul,A+,Kardiyoloji,Koroner Arter,21,33.3,116.0,Yok,
+10956,24,Kadın,Ankara,A+,Genel Cerrahi,Kolon Polip,1,27.0,116.0,SGK,6614.0
+10192,41,Kadın,İstanbul,B+,Kardiyoloji,Hipertansiyon,5,23.3,129.0,SGK,11066.0
+10386,66,Kadın,İstanbul,A+,Nöroloji,Migren,5,27.1,130.0,SGK,10878.0
+10806,55,Erkek,İzmir,0+,Ortopedi,Kırık,4,21.9,139.0,SGK,11801.0
+10414,41,Erkek,Bursa,A+,Nöroloji,Epilepsi,5,22.1,129.0,Yok,9915.0
+10492,47,Kadın,Ankara,A+,Genel Cerrahi,Fıtık,1,24.9,104.0,SGK,4980.0
+10344,63,Erkek,İzmir,0+,Pediatri,Grip,5,27.4,138.0,Özel Sigorta,7421.0
+10770,75,Erkek,Ankara,0+,Ortopedi,Disk Hernisi,2,25.4,119.0,SGK,7917.0
+10309,63,Kadın,Ankara,A+,Nöroloji,Migren,4,23.8,142.0,Özel Sigorta,8498.0
+10662,51,Kadın,İstanbul,AB-,Kardiyoloji,Hipertansiyon,2,33.4,127.0,Yok,7272.0
+10131,47,Erkek,İzmir,B-,Ortopedi,Disk Hernisi,10,31.8,128.0,Yok,21008.0
+10664,76,Erkek,İstanbul,AB+,Pediatri,Alerji,1,32.2,138.0,Yok,2469.0
+10872,56,Kadın,Antalya,0+,Kardiyoloji,Hipertansiyon,4,21.9,122.0,Özel Sigorta,10910.0
+10100,26,Erkek,Antalya,0+,Pediatri,Alerji,7,25.0,100.0,SGK,8593.0
+10373,36,Kadın,Ankara,B+,Kardiyoloji,Hipertansiyon,1,26.6,116.0,SGK,4908.0
+10088,20,Kadın,Ankara,B-,Genel Cerrahi,Kolon Polip,5,26.7,125.0,SGK,16137.0
+10459,20,Erkek,Antalya,AB+,Pediatri,Kulak İltihabı,1,17.5,110.0,SGK,2435.0
+10331,71,Erkek,Adana,0+,Genel Cerrahi,Apandisit,7,27.5,131.0,SGK,18631.0
+10215,32,Erkek,İstanbul,AB+,Kardiyoloji,Koroner Arter,3,27.7,109.0,Özel Sigorta,8424.0
+10467,22,Kadın,İzmir,0+,Kardiyoloji,Koroner Arter,5,20.2,100.0,SGK,12324.0
+10122,63,Erkek,Bursa,0+,Kardiyoloji,Koroner Arter,5,24.2,117.0,Yok,12237.0
+10615,31,Erkek,İstanbul,A+,Pediatri,Bronşit,2,19.8,118.0,SGK,3798.0
+10021,34,Erkek,İstanbul,0+,Pediatri,Kulak İltihabı,10,24.7,108.0,Yok,10314.0
+10701,84,Erkek,Gaziantep,A+,Genel Cerrahi,Safra Kesesi,7,28.7,139.0,Özel Sigorta,18655.0
+10072,52,Kadın,İzmir,0-,Genel Cerrahi,Apandisit,5,27.4,123.0,SGK,16905.0
+10107,81,Kadın,Bursa,0+,Ortopedi,Tendon Yırtığı,1,24.1,131.0,SGK,4858.0
+10271,18,Erkek,Ankara,0+,Ortopedi,Tendon Yırtığı,2,22.1,118.0,SGK,8435.0
+10861,59,Kadın,Ankara,0+,Dahiliye,Anemi,7,28.9,132.0,SGK,9554.0
+10436,49,Kadın,İstanbul,AB+,Dahiliye,Tiroid,4,23.5,112.0,Özel Sigorta,7420.0
+10103,77,Erkek,Konya,A+,Kardiyoloji,Hipertansiyon,7,27.3,137.0,SGK,14731.0
